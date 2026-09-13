@@ -18,7 +18,7 @@ import './Login.css';
 
 const API_BASE_URL = 'http://localhost:5000/api';
 
-export default function Login({ onSwitchToRegister }) {
+export default function Login({ onSwitchToRegister, onAuthSuccess, onLogout, onGoToShop }) {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
@@ -87,6 +87,12 @@ export default function Login({ onSwitchToRegister }) {
           sessionStorage.setItem('ecommerce_user', JSON.stringify(user));
           sessionStorage.setItem('ecommerce_token', token);
         }
+
+        if (onAuthSuccess) {
+          setTimeout(() => {
+            onAuthSuccess(user);
+          }, 800);
+        }
       }
     } catch (err) {
       console.error('Login error:', err);
@@ -113,6 +119,9 @@ export default function Login({ onSwitchToRegister }) {
     setPassword('');
     setSuccessMsg('');
     setError('');
+    if (onLogout) {
+      onLogout();
+    }
   };
 
   return (
@@ -165,10 +174,37 @@ export default function Login({ onSwitchToRegister }) {
               </div>
             </div>
 
-            <button className="logout-btn" onClick={handleLogout}>
-              <LogOut size={16} style={{ display: 'inline', verticalAlign: 'middle', marginRight: 8 }} />
-              Sign Out
-            </button>
+            <div style={{ display: 'flex', gap: 12, width: '100%' }}>
+              {onGoToShop && (
+                <button
+                  type="button"
+                  onClick={onGoToShop}
+                  style={{
+                    flex: 1,
+                    padding: '12px 18px',
+                    borderRadius: '12px',
+                    background: 'linear-gradient(135deg, #6366f1 0%, #4f46e5 100%)',
+                    border: 'none',
+                    color: '#ffffff',
+                    fontSize: '14px',
+                    fontWeight: 600,
+                    cursor: 'pointer',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    gap: 8,
+                    boxShadow: '0 4px 14px rgba(99, 102, 241, 0.4)'
+                  }}
+                >
+                  <ShoppingBag size={16} />
+                  Shop Now
+                </button>
+              )}
+              <button className="logout-btn" onClick={handleLogout} style={{ flex: 1 }}>
+                <LogOut size={16} style={{ display: 'inline', verticalAlign: 'middle', marginRight: 8 }} />
+                Sign Out
+              </button>
+            </div>
           </div>
         ) : (
           /* Login Form */
