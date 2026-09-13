@@ -1,0 +1,203 @@
+.register-container {
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  padding: 32px 24px;
+  background: radial-gradient(circle at 15% 15%, rgba(99, 102, 241, 0.15) 0%, transparent 40%),
+              radial-gradient(circle at 85% 85%, rgba(139, 92, 246, 0.15) 0%, transparent 40%),
+              #090d16;
+}
+
+/* Glassmorphism Card */
+.register-card {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 500px;
+  background: rgba(17, 24, 39, 0.72);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.7),
+              0 0 0 1px rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-xl);
+  padding: 40px 36px;
+  animation: cardFadeIn 0.5s ease-out;
+}
+
+.register-header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.register-title {
+  font-family: var(--font-heading);
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+  letter-spacing: -0.5px;
+}
+
+.register-subtitle {
+  font-size: 14px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+/* Password Strength Meter */
+.strength-meter {
+  margin-top: 8px;
+  margin-bottom: 4px;
+}
+
+.strength-bars {
+  display: flex;
+  gap: 6px;
+  height: 4px;
+  margin-bottom: 6px;
+}
+
+.strength-bar {
+  flex: 1;
+  height: 100%;
+  border-radius: 2px;
+  background: rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+.strength-bar.weak {
+  background: #f43f5e;
+}
+
+.strength-bar.medium {
+  background: #f59e0b;
+}
+
+.strength-bar.strong {
+  background: #10b981;
+}
+
+.strength-text {
+  font-size: 11px;
+  color: var(--text-muted);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.strength-score-label {
+  font-weight: 600;
+}
+
+.strength-score-label.weak {
+  color: #fca5a5;
+}
+
+.strength-score-label.medium {
+  color: #fcd34d;
+}
+
+.strength-score-label.strong {
+  color: #6ee7b7;
+}
+
+/* Terms Checkbox */
+.terms-group {
+  margin-top: 18px;
+  margin-bottom: 24px;
+}
+
+.terms-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  line-height: 1.4;
+}
+
+.terms-checkbox {
+  accent-color: #6366f1;
+  width: 16px;
+  height: 16px;
+  margin-top: 2px;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+
+.terms-link {
+  color: #818cf8;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.terms-link:hover {
+  color: #a5b4fc;
+  text-decoration: underline;
+}
+
+/* Benefits Banner */
+.signup-perks {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-bottom: 24px;
+  padding: 12px;
+  background: rgba(15, 23, 42, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: var(--radius-md);
+  text-align: center;
+}
+
+.perk-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  color: #94a3b8;
+}
+
+.perk-icon {
+  width: 16px;
+  height: 16px;
+  color: #818cf8;
+}
+
+.perk-text {
+  font-weight: 600;
+  color: #cbd5e1;
+}
+
+/* Footer Switch */
+.register-footer {
+  text-align: center;
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.signin-link {
+  color: #818cf8;
+  font-weight: 600;
+  margin-left: 6px;
+  transition: color 0.2s ease;
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-size: inherit;
+  padding: 0;
+}
+
+.signin-link:hover {
+  color: #a5b4fc;
+  text-decoration: underline;
+}

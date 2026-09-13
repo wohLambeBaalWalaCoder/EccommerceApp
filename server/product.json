@@ -1,0 +1,5811 @@
+[
+  {
+    "_id": "product_001",
+    "name": "Apple iPhone 17",
+    "slug": "apple-iphone-17",
+    "description": "Latest Apple smartphone with advanced performance and camera capabilities.",
+    "brandId": "brand_001",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple iPhone 17 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple iPhone 17 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_001",
+        "sku": "IPH17-BLK-128",
+        "attributes": {
+          "color": "Black",
+          "storage": "128GB"
+        },
+        "price": 79999,
+        "compareAtPrice": 84999
+      },
+      {
+        "_id": "variant_002",
+        "sku": "IPH17-BLU-256",
+        "attributes": {
+          "color": "Blue",
+          "storage": "256GB"
+        },
+        "price": 89999,
+        "compareAtPrice": 94999
+      }
+    ],
+    "specifications": {
+      "display": "6.3 inch",
+      "processor": "A19",
+      "ram": "8GB",
+      "operatingSystem": "iOS",
+      "camera": "48MP",
+      "battery": "4000mAh"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1250
+    },
+    "tags": [
+      "iphone",
+      "apple",
+      "smartphone",
+      "5g"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_002",
+    "name": "Apple iPhone 17 Pro Max",
+    "slug": "apple-iphone-17-pro-max",
+    "description": "The ultimate iPhone featuring Titanium frame, A19 Pro, periscope 5x optical zoom, and studio-grade video recording.",
+    "brandId": "brand_001",
+    "categoryId": "category_001",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple iPhone 17 Pro Max primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple iPhone 17 Pro Max detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_003",
+        "sku": "IPH17PM-BLK-256",
+        "attributes": {
+          "color": "Space Black",
+          "storage": "256GB"
+        },
+        "price": 139999,
+        "compareAtPrice": 144999
+      },
+      {
+        "_id": "variant_004",
+        "sku": "IPH17PM-DES-512",
+        "attributes": {
+          "color": "Desert Titanium",
+          "storage": "512GB"
+        },
+        "price": 159999,
+        "compareAtPrice": 164999
+      },
+      {
+        "_id": "variant_005",
+        "sku": "IPH17PM-WHT-1TB",
+        "attributes": {
+          "color": "Titanium White",
+          "storage": "1TB"
+        },
+        "price": 189999,
+        "compareAtPrice": 194999
+      }
+    ],
+    "specifications": {
+      "display": "6.9 inch ProMotion 120Hz",
+      "processor": "A19 Pro",
+      "ram": "12GB",
+      "operatingSystem": "iOS 20",
+      "camera": "48MP Triple Pro + LiDAR",
+      "battery": "4850mAh"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 2850
+    },
+    "tags": [
+      "iphone",
+      "apple",
+      "pro-max",
+      "flagship",
+      "camera-phone"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_003",
+    "name": "Samsung Galaxy S25 Ultra",
+    "slug": "samsung-galaxy-s25-ultra",
+    "description": "Samsung flagship power with built-in S-Pen, Snapdragon 8 Elite, 200MP camera, and Galaxy AI ecosystem.",
+    "brandId": "brand_002",
+    "categoryId": "category_001",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy S25 Ultra primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy S25 Ultra detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_006",
+        "sku": "S25U-GRY-256",
+        "attributes": {
+          "color": "Titanium Gray",
+          "storage": "256GB"
+        },
+        "price": 129999,
+        "compareAtPrice": 134999
+      },
+      {
+        "_id": "variant_007",
+        "sku": "S25U-BLK-512",
+        "attributes": {
+          "color": "Titanium Black",
+          "storage": "512GB"
+        },
+        "price": 144999,
+        "compareAtPrice": 149999
+      },
+      {
+        "_id": "variant_008",
+        "sku": "S25U-VIO-1TB",
+        "attributes": {
+          "color": "Titanium Violet",
+          "storage": "1TB"
+        },
+        "price": 169999,
+        "compareAtPrice": 174999
+      }
+    ],
+    "specifications": {
+      "display": "6.8 inch Dynamic AMOLED 2X",
+      "processor": "Snapdragon 8 Elite",
+      "ram": "12GB",
+      "operatingSystem": "Android 16",
+      "camera": "200MP Quad Camera",
+      "battery": "5000mAh"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 2100
+    },
+    "tags": [
+      "samsung",
+      "galaxy",
+      "ultra",
+      "s-pen",
+      "android"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_004",
+    "name": "Samsung Galaxy S25",
+    "slug": "samsung-galaxy-s25",
+    "description": "Compact flagship performance featuring Galaxy AI, armor aluminum frame, and vivid Dynamic AMOLED display.",
+    "brandId": "brand_002",
+    "categoryId": "category_001",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy S25 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy S25 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_009",
+        "sku": "S25-BLK-128",
+        "attributes": {
+          "color": "Onyx Black",
+          "storage": "128GB"
+        },
+        "price": 74999,
+        "compareAtPrice": 79999
+      },
+      {
+        "_id": "variant_010",
+        "sku": "S25-YEL-256",
+        "attributes": {
+          "color": "Amber Yellow",
+          "storage": "256GB"
+        },
+        "price": 82999,
+        "compareAtPrice": 87999
+      }
+    ],
+    "specifications": {
+      "display": "6.2 inch Dynamic AMOLED 2X 120Hz",
+      "processor": "Exynos 2500 / Snapdragon 8 Elite",
+      "ram": "8GB",
+      "operatingSystem": "Android 16",
+      "camera": "50MP Triple Camera",
+      "battery": "4000mAh"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 980
+    },
+    "tags": [
+      "samsung",
+      "galaxy",
+      "compact",
+      "android",
+      "5g"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_005",
+    "name": "Google Pixel 10 Pro",
+    "slug": "google-pixel-10-pro",
+    "description": "The AI-first phone with Google Tensor G5, Magic Editor suite, pro camera zoom, and clean Android interface.",
+    "brandId": "brand_010",
+    "categoryId": "category_001",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1533228876829-65c94e7b5025?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Google Pixel 10 Pro primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Google Pixel 10 Pro detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_011",
+        "sku": "PIX10P-OBS-128",
+        "attributes": {
+          "color": "Obsidian",
+          "storage": "128GB"
+        },
+        "price": 104999,
+        "compareAtPrice": 109999
+      },
+      {
+        "_id": "variant_012",
+        "sku": "PIX10P-POR-256",
+        "attributes": {
+          "color": "Porcelain",
+          "storage": "256GB"
+        },
+        "price": 114999,
+        "compareAtPrice": 119999
+      },
+      {
+        "_id": "variant_013",
+        "sku": "PIX10P-HAZ-512",
+        "attributes": {
+          "color": "Hazel",
+          "storage": "512GB"
+        },
+        "price": 129999,
+        "compareAtPrice": 134999
+      }
+    ],
+    "specifications": {
+      "display": "6.7 inch Super Actua LTPO OLED",
+      "processor": "Google Tensor G5",
+      "ram": "16GB",
+      "operatingSystem": "Android 16",
+      "camera": "50MP Triple Pixel Camera",
+      "battery": "5100mAh"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1150
+    },
+    "tags": [
+      "google",
+      "pixel",
+      "ai",
+      "camera",
+      "clean-android"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_006",
+    "name": "Google Pixel 10",
+    "slug": "google-pixel-10",
+    "description": "Google's smart every-day flagship with Tensor G5, all-day battery, and computational photography excellence.",
+    "brandId": "brand_010",
+    "categoryId": "category_001",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Google Pixel 10 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Google Pixel 10 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_014",
+        "sku": "PIX10-OBS-128",
+        "attributes": {
+          "color": "Obsidian",
+          "storage": "128GB"
+        },
+        "price": 74999,
+        "compareAtPrice": 79999
+      },
+      {
+        "_id": "variant_015",
+        "sku": "PIX10-ROS-256",
+        "attributes": {
+          "color": "Rose",
+          "storage": "256GB"
+        },
+        "price": 84999,
+        "compareAtPrice": 89999
+      }
+    ],
+    "specifications": {
+      "display": "6.3 inch Actua OLED 120Hz",
+      "processor": "Google Tensor G5",
+      "ram": "8GB",
+      "operatingSystem": "Android 16",
+      "camera": "50MP Dual Camera",
+      "battery": "4600mAh"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 830
+    },
+    "tags": [
+      "google",
+      "pixel",
+      "android",
+      "5g",
+      "ai"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_007",
+    "name": "OnePlus 13",
+    "slug": "oneplus-13",
+    "description": "Ultra-fast charging, Snapdragon 8 Elite, Hasselblad tuned color science, and IP69 water resistance.",
+    "brandId": "brand_011",
+    "categoryId": "category_001",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=1000&q=80",
+        "alt": "OnePlus 13 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "OnePlus 13 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_016",
+        "sku": "OP13-BLK-256",
+        "attributes": {
+          "color": "Midnight Black",
+          "storage": "256GB"
+        },
+        "price": 69999,
+        "compareAtPrice": 74999
+      },
+      {
+        "_id": "variant_017",
+        "sku": "OP13-GRN-512",
+        "attributes": {
+          "color": "Emerald Green",
+          "storage": "512GB"
+        },
+        "price": 79999,
+        "compareAtPrice": 84999
+      }
+    ],
+    "specifications": {
+      "display": "6.82 inch 2K LTPO AMOLED",
+      "processor": "Snapdragon 8 Elite",
+      "ram": "16GB",
+      "operatingSystem": "OxygenOS 16",
+      "camera": "50MP Hasselblad Triple",
+      "battery": "6000mAh (100W SUPERVOOC)"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1650
+    },
+    "tags": [
+      "oneplus",
+      "fast-charging",
+      "hasselblad",
+      "flagship-killer"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_008",
+    "name": "Xiaomi 15 Pro",
+    "slug": "xiaomi-15-pro",
+    "description": "Co-engineered with Leica, featuring Snapdragon 8 Elite, quad curved OLED, and 90W HyperCharge.",
+    "brandId": "brand_012",
+    "categoryId": "category_001",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Xiaomi 15 Pro primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Xiaomi 15 Pro detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_018",
+        "sku": "MI15P-SLV-256",
+        "attributes": {
+          "color": "Titanium Silver",
+          "storage": "256GB"
+        },
+        "price": 64999,
+        "compareAtPrice": 69999
+      },
+      {
+        "_id": "variant_019",
+        "sku": "MI15P-GRN-512",
+        "attributes": {
+          "color": "Forest Green",
+          "storage": "512GB"
+        },
+        "price": 74999,
+        "compareAtPrice": 79999
+      }
+    ],
+    "specifications": {
+      "display": "6.73 inch 2K AMOLED 120Hz",
+      "processor": "Snapdragon 8 Elite",
+      "ram": "16GB",
+      "operatingSystem": "HyperOS 2",
+      "camera": "50MP Leica Triple System",
+      "battery": "6100mAh"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 720
+    },
+    "tags": [
+      "xiaomi",
+      "leica",
+      "hyperos",
+      "camera-phone"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_009",
+    "name": "Nothing Phone (3)",
+    "slug": "nothing-phone-3",
+    "description": "Iconic transparent design with customizable Glyph Interface, premium performance, and Nothing OS elegance.",
+    "brandId": "brand_020",
+    "categoryId": "category_001",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1574944985070-8f3ebc6b79d2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Nothing Phone (3) primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Nothing Phone (3) detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_020",
+        "sku": "NP3-WHT-128",
+        "attributes": {
+          "color": "White",
+          "storage": "128GB"
+        },
+        "price": 44999,
+        "compareAtPrice": 49999
+      },
+      {
+        "_id": "variant_021",
+        "sku": "NP3-GRY-256",
+        "attributes": {
+          "color": "Dark Gray",
+          "storage": "256GB"
+        },
+        "price": 49999,
+        "compareAtPrice": 54999
+      }
+    ],
+    "specifications": {
+      "display": "6.7 inch Flexible AMOLED 120Hz",
+      "processor": "Snapdragon 8s Gen 3",
+      "ram": "12GB",
+      "operatingSystem": "Nothing OS 3.0",
+      "camera": "50MP Dual Sony Sensor",
+      "battery": "5000mAh (45W)"
+    },
+    "rating": {
+      "average": 4.4,
+      "count": 1890
+    },
+    "tags": [
+      "nothing",
+      "glyph",
+      "minimalist",
+      "transparent-tech"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_010",
+    "name": "Sony Xperia 1 VII",
+    "slug": "sony-xperia-1-vii",
+    "description": "Designed for content creators and videographers with true optical zoom, 4K OLED, and 3.5mm headphone jack.",
+    "brandId": "brand_003",
+    "categoryId": "category_001",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1533228876829-65c94e7b5025?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony Xperia 1 VII primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony Xperia 1 VII detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_022",
+        "sku": "XP1VII-BLK-256",
+        "attributes": {
+          "color": "Black",
+          "storage": "256GB"
+        },
+        "price": 119999,
+        "compareAtPrice": 124999
+      },
+      {
+        "_id": "variant_023",
+        "sku": "XP1VII-GRN-512",
+        "attributes": {
+          "color": "Khaki Green",
+          "storage": "512GB"
+        },
+        "price": 134999,
+        "compareAtPrice": 139999
+      }
+    ],
+    "specifications": {
+      "display": "6.5 inch 4K HDR OLED 120Hz",
+      "processor": "Snapdragon 8 Elite",
+      "ram": "12GB",
+      "operatingSystem": "Android 16",
+      "camera": "Zeiss T* Triple 48MP",
+      "battery": "5000mAh"
+    },
+    "rating": {
+      "average": 4.3,
+      "count": 410
+    },
+    "tags": [
+      "sony",
+      "xperia",
+      "cinema",
+      "pro-photo",
+      "audiophile"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_011",
+    "name": "Apple MacBook Pro 16 M4 Max",
+    "slug": "apple-macbook-pro-16-m4-max",
+    "description": "The pinnacle of mobile workstation computing with Apple M4 Max, Liquid Retina XDR, and extraordinary battery life.",
+    "brandId": "brand_001",
+    "categoryId": "category_002",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple MacBook Pro 16 M4 Max primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple MacBook Pro 16 M4 Max detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_024",
+        "sku": "MBP16-BLK-1TB",
+        "attributes": {
+          "color": "Space Black",
+          "storage": "1TB SSD"
+        },
+        "price": 349999,
+        "compareAtPrice": 359999
+      },
+      {
+        "_id": "variant_025",
+        "sku": "MBP16-SLV-2TB",
+        "attributes": {
+          "color": "Silver",
+          "storage": "2TB SSD"
+        },
+        "price": 399999,
+        "compareAtPrice": 409999
+      }
+    ],
+    "specifications": {
+      "display": "16.2 inch Liquid Retina XDR 120Hz",
+      "processor": "Apple M4 Max (16-core CPU)",
+      "ram": "36GB Unified",
+      "operatingSystem": "macOS Tahoe",
+      "camera": "1080p FaceTime HD",
+      "battery": "100Wh (22 Hours)"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 870
+    },
+    "tags": [
+      "apple",
+      "macbook",
+      "m4-max",
+      "workstation",
+      "creator-laptop"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_012",
+    "name": "Apple MacBook Air 15 M3",
+    "slug": "apple-macbook-air-15-m3",
+    "description": "Impossibly thin 15-inch design with M3 chip, fanless silent operation, and up to 18 hours of battery.",
+    "brandId": "brand_001",
+    "categoryId": "category_002",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple MacBook Air 15 M3 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple MacBook Air 15 M3 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_026",
+        "sku": "MBA15-MID-256",
+        "attributes": {
+          "color": "Midnight",
+          "storage": "256GB SSD"
+        },
+        "price": 134999,
+        "compareAtPrice": 139999
+      },
+      {
+        "_id": "variant_027",
+        "sku": "MBA15-STR-512",
+        "attributes": {
+          "color": "Starlight",
+          "storage": "512GB SSD"
+        },
+        "price": 154999,
+        "compareAtPrice": 159999
+      }
+    ],
+    "specifications": {
+      "display": "15.3 inch Liquid Retina",
+      "processor": "Apple M3",
+      "ram": "16GB Unified",
+      "operatingSystem": "macOS Tahoe",
+      "camera": "1080p FaceTime HD",
+      "battery": "66.5Wh (18 Hours)"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1240
+    },
+    "tags": [
+      "apple",
+      "macbook-air",
+      "m3",
+      "ultrabook",
+      "student-laptop"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_013",
+    "name": "Dell XPS 16 OLED",
+    "slug": "dell-xps-16-oled",
+    "description": "Futuristic CNC aluminum design with 4K OLED touch display, Intel Core Ultra 9, and NVIDIA GeForce RTX 4070.",
+    "brandId": "brand_004",
+    "categoryId": "category_002",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Dell XPS 16 OLED primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Dell XPS 16 OLED detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_028",
+        "sku": "XPS16-PLT-1TB",
+        "attributes": {
+          "color": "Platinum",
+          "storage": "1TB SSD"
+        },
+        "price": 279999,
+        "compareAtPrice": 289999
+      },
+      {
+        "_id": "variant_029",
+        "sku": "XPS16-GRP-2TB",
+        "attributes": {
+          "color": "Graphite",
+          "storage": "2TB SSD"
+        },
+        "price": 319999,
+        "compareAtPrice": 329999
+      }
+    ],
+    "specifications": {
+      "display": "16.3 inch 4K OLED Touch 120Hz",
+      "processor": "Intel Core Ultra 9 185H",
+      "ram": "32GB LPDDR5X",
+      "operatingSystem": "Windows 11 Pro",
+      "camera": "1080p FHD IR",
+      "battery": "99.5Wh"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 650
+    },
+    "tags": [
+      "dell",
+      "xps",
+      "oled",
+      "creative-laptop",
+      "windows"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_014",
+    "name": "ASUS ROG Zephyrus G16",
+    "slug": "asus-rog-zephyrus-g16",
+    "description": "Sleek aluminum gaming laptop with ROG Nebula OLED, AMD Ryzen AI 9, and NVIDIA RTX 4080 graphics.",
+    "brandId": "brand_005",
+    "categoryId": "category_002",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=1000&q=80",
+        "alt": "ASUS ROG Zephyrus G16 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=1000&q=80",
+        "alt": "ASUS ROG Zephyrus G16 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_030",
+        "sku": "G16-GRY-1TB",
+        "attributes": {
+          "color": "Eclipse Gray",
+          "storage": "1TB SSD"
+        },
+        "price": 219999,
+        "compareAtPrice": 229999
+      },
+      {
+        "_id": "variant_031",
+        "sku": "G16-WHT-2TB",
+        "attributes": {
+          "color": "Platinum White",
+          "storage": "2TB SSD"
+        },
+        "price": 259999,
+        "compareAtPrice": 269999
+      }
+    ],
+    "specifications": {
+      "display": "16 inch 2.5K OLED 240Hz",
+      "processor": "AMD Ryzen AI 9 HX 370",
+      "ram": "32GB LPDDR5X",
+      "operatingSystem": "Windows 11 Home",
+      "camera": "1080p IR",
+      "battery": "90Wh"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 910
+    },
+    "tags": [
+      "asus",
+      "rog",
+      "gaming-laptop",
+      "rtx4080",
+      "high-refresh"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_015",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 13",
+    "slug": "lenovo-thinkpad-x1-carbon-gen-13",
+    "description": "The gold standard of enterprise laptops: carbon fiber chassis, legendary keyboard, Intel Core Ultra, and all-day stamina.",
+    "brandId": "brand_006",
+    "categoryId": "category_002",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Lenovo ThinkPad X1 Carbon Gen 13 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Lenovo ThinkPad X1 Carbon Gen 13 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_032",
+        "sku": "X1C13-BLK-512",
+        "attributes": {
+          "color": "Deep Black",
+          "storage": "512GB SSD"
+        },
+        "price": 189999,
+        "compareAtPrice": 199999
+      },
+      {
+        "_id": "variant_033",
+        "sku": "X1C13-BLK-1TB",
+        "attributes": {
+          "color": "Deep Black",
+          "storage": "1TB SSD"
+        },
+        "price": 219999,
+        "compareAtPrice": 229999
+      }
+    ],
+    "specifications": {
+      "display": "14 inch 2.8K OLED Anti-Glare",
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "32GB LPDDR5X",
+      "operatingSystem": "Windows 11 Pro",
+      "camera": "8MP MIPI with Computer Vision",
+      "battery": "57Wh"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 540
+    },
+    "tags": [
+      "lenovo",
+      "thinkpad",
+      "business-laptop",
+      "enterprise",
+      "lightweight"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_016",
+    "name": "HP Spectre x360 14",
+    "slug": "hp-spectre-x360-14",
+    "description": "2-in-1 convertible elegance featuring gem-cut edges, 2.8K OLED touch, rechargeable stylus, and AI enhancements.",
+    "brandId": "brand_007",
+    "categoryId": "category_002",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=1000&q=80",
+        "alt": "HP Spectre x360 14 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=1000&q=80",
+        "alt": "HP Spectre x360 14 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_034",
+        "sku": "SP14-BLK-512",
+        "attributes": {
+          "color": "Nightfall Black",
+          "storage": "512GB SSD"
+        },
+        "price": 149999,
+        "compareAtPrice": 159999
+      },
+      {
+        "_id": "variant_035",
+        "sku": "SP14-BLU-1TB",
+        "attributes": {
+          "color": "Slate Blue",
+          "storage": "1TB SSD"
+        },
+        "price": 169999,
+        "compareAtPrice": 179999
+      }
+    ],
+    "specifications": {
+      "display": "14 inch 2.8K OLED 120Hz Touch",
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "16GB LPDDR5X",
+      "operatingSystem": "Windows 11 Home",
+      "camera": "9MP Wide Vision IR",
+      "battery": "68Wh"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 620
+    },
+    "tags": [
+      "hp",
+      "spectre",
+      "2-in-1",
+      "convertible",
+      "touchscreen"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_017",
+    "name": "Razer Blade 16",
+    "slug": "razer-blade-16",
+    "description": "Anodized unibody gaming machine featuring dual-mode mini-LED display and desktop-grade NVIDIA RTX 4090 power.",
+    "brandId": "brand_017",
+    "categoryId": "category_002",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Razer Blade 16 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Razer Blade 16 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_036",
+        "sku": "RB16-BLK-1TB",
+        "attributes": {
+          "color": "Classic Matte Black",
+          "storage": "1TB SSD"
+        },
+        "price": 329999,
+        "compareAtPrice": 339999
+      },
+      {
+        "_id": "variant_037",
+        "sku": "RB16-WHT-2TB",
+        "attributes": {
+          "color": "Mercury White",
+          "storage": "2TB SSD"
+        },
+        "price": 379999,
+        "compareAtPrice": 389999
+      }
+    ],
+    "specifications": {
+      "display": "16 inch Dual-Mode Mini-LED (4K 120Hz / FHD 240Hz)",
+      "processor": "Intel Core i9-14900HX",
+      "ram": "32GB DDR5",
+      "operatingSystem": "Windows 11 Home",
+      "camera": "1080p FHD IR",
+      "battery": "95.2Wh"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 480
+    },
+    "tags": [
+      "razer",
+      "blade",
+      "rtx4090",
+      "enthusiast-gaming",
+      "mini-led"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_018",
+    "name": "Microsoft Surface Laptop 7",
+    "slug": "microsoft-surface-laptop-7",
+    "description": "Copilot+ PC running Qualcomm Snapdragon X Elite with unmatched battery efficiency, PixelSense Touch, and studio mic array.",
+    "brandId": "brand_016",
+    "categoryId": "category_002",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Microsoft Surface Laptop 7 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Microsoft Surface Laptop 7 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_038",
+        "sku": "SL7-PLT-512",
+        "attributes": {
+          "color": "Platinum",
+          "storage": "512GB SSD"
+        },
+        "price": 124999,
+        "compareAtPrice": 129999
+      },
+      {
+        "_id": "variant_039",
+        "sku": "SL7-BLU-1TB",
+        "attributes": {
+          "color": "Sapphire Blue",
+          "storage": "1TB SSD"
+        },
+        "price": 154999,
+        "compareAtPrice": 159999
+      }
+    ],
+    "specifications": {
+      "display": "13.8 inch PixelSense Touch 120Hz",
+      "processor": "Snapdragon X Elite",
+      "ram": "16GB LPDDR5X",
+      "operatingSystem": "Windows 11 ARM",
+      "camera": "1080p Studio Cam",
+      "battery": "54Wh (20 Hours)"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 780
+    },
+    "tags": [
+      "microsoft",
+      "surface",
+      "copilot-plus",
+      "snapdragon-x",
+      "arm-laptop"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_019",
+    "name": "ASUS Zenbook 14 OLED",
+    "slug": "asus-zenbook-14-oled",
+    "description": "Ultra-portable premium laptop with stunning Lumina OLED, Intel Core Ultra, Harmon Kardon speakers, and 1.2kg weight.",
+    "brandId": "brand_005",
+    "categoryId": "category_002",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=1000&q=80",
+        "alt": "ASUS Zenbook 14 OLED primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=1000&q=80",
+        "alt": "ASUS Zenbook 14 OLED detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_040",
+        "sku": "ZB14-BLU-512",
+        "attributes": {
+          "color": "Ponder Blue",
+          "storage": "512GB SSD"
+        },
+        "price": 99999,
+        "compareAtPrice": 104999
+      },
+      {
+        "_id": "variant_041",
+        "sku": "ZB14-SLV-1TB",
+        "attributes": {
+          "color": "Foggy Silver",
+          "storage": "1TB SSD"
+        },
+        "price": 114999,
+        "compareAtPrice": 119999
+      }
+    ],
+    "specifications": {
+      "display": "14 inch 3K Lumina OLED 120Hz",
+      "processor": "Intel Core Ultra 7 155H",
+      "ram": "16GB LPDDR5X",
+      "operatingSystem": "Windows 11 Home",
+      "camera": "FHD IR with privacy shutter",
+      "battery": "75Wh"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1120
+    },
+    "tags": [
+      "asus",
+      "zenbook",
+      "oled-laptop",
+      "lightweight",
+      "budget-flagship"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_020",
+    "name": "Lenovo Legion Pro 7i",
+    "slug": "lenovo-legion-pro-7i",
+    "description": "E-sports juggernaut powered by Coldfront 5.0 vapor chamber cooling, Intel Core i9, and NVIDIA GeForce RTX 4080.",
+    "brandId": "brand_006",
+    "categoryId": "category_002",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Lenovo Legion Pro 7i primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Lenovo Legion Pro 7i detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_042",
+        "sku": "LP7I-GRY-1TB",
+        "attributes": {
+          "color": "Onyx Grey",
+          "storage": "1TB SSD"
+        },
+        "price": 239999,
+        "compareAtPrice": 249999
+      },
+      {
+        "_id": "variant_043",
+        "sku": "LP7I-GRY-2TB",
+        "attributes": {
+          "color": "Onyx Grey",
+          "storage": "2TB SSD"
+        },
+        "price": 269999,
+        "compareAtPrice": 279999
+      }
+    ],
+    "specifications": {
+      "display": "16 inch WQXGA 240Hz 500nits",
+      "processor": "Intel Core i9-14900HX",
+      "ram": "32GB DDR5",
+      "operatingSystem": "Windows 11 Home",
+      "camera": "1080p E-shutter",
+      "battery": "99.9Wh"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 740
+    },
+    "tags": [
+      "lenovo",
+      "legion",
+      "esports",
+      "gaming-rig",
+      "rtx4080"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_021",
+    "name": "Sony WH-1000XM6",
+    "slug": "sony-wh-1000xm6",
+    "description": "Industry benchmark Active Noise Cancelling headphones with QN3 processor, LDAC hi-res wireless, and 35-hour battery.",
+    "brandId": "brand_003",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony WH-1000XM6 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony WH-1000XM6 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_044",
+        "sku": "WHXM6-SLV",
+        "attributes": {
+          "color": "Silver"
+        },
+        "price": 34999,
+        "compareAtPrice": 37999
+      },
+      {
+        "_id": "variant_045",
+        "sku": "WHXM6-BLK",
+        "attributes": {
+          "color": "Midnight Black"
+        },
+        "price": 34999,
+        "compareAtPrice": 37999
+      },
+      {
+        "_id": "variant_046",
+        "sku": "WHXM6-NVY",
+        "attributes": {
+          "color": "Smoky Navy"
+        },
+        "price": 34999,
+        "compareAtPrice": 37999
+      }
+    ],
+    "specifications": {
+      "driver": "30mm Carbon Fiber",
+      "battery": "35 Hours ANC",
+      "connectivity": "Bluetooth 5.4, Multipoint, 3.5mm",
+      "codecs": "LDAC, AAC, SBC, LC3",
+      "weight": "245g"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 3200
+    },
+    "tags": [
+      "sony",
+      "headphones",
+      "anc",
+      "noise-cancelling",
+      "audiophile"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_022",
+    "name": "Apple AirPods Max 2",
+    "slug": "apple-airpods-max-2",
+    "description": "Masterpiece acoustic design with USB-C, personalized Spatial Audio, computational audio with H2 chip, and memory foam earcups.",
+    "brandId": "brand_001",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple AirPods Max 2 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple AirPods Max 2 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_047",
+        "sku": "APM2-GRY",
+        "attributes": {
+          "color": "Space Gray"
+        },
+        "price": 59900,
+        "compareAtPrice": 62900
+      },
+      {
+        "_id": "variant_048",
+        "sku": "APM2-STR",
+        "attributes": {
+          "color": "Starlight"
+        },
+        "price": 59900,
+        "compareAtPrice": 62900
+      },
+      {
+        "_id": "variant_049",
+        "sku": "APM2-MID",
+        "attributes": {
+          "color": "Midnight"
+        },
+        "price": 59900,
+        "compareAtPrice": 62900
+      }
+    ],
+    "specifications": {
+      "driver": "40mm Apple Custom Dynamic",
+      "battery": "20 Hours ANC",
+      "connectivity": "Bluetooth 5.3, USB-C Audio",
+      "chip": "Dual Apple H2",
+      "weight": "385g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1850
+    },
+    "tags": [
+      "apple",
+      "airpods-max",
+      "luxury-audio",
+      "spatial-audio",
+      "usb-c"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_023",
+    "name": "Bose QuietComfort Ultra Headphones",
+    "slug": "bose-quietcomfort-ultra-headphones",
+    "description": "Legendary noise cancellation coupled with Bose Immersive Audio, custom acoustic tuning, and ultra-plush comfort.",
+    "brandId": "brand_008",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Bose QuietComfort Ultra Headphones primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Bose QuietComfort Ultra Headphones detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_050",
+        "sku": "BQC-U-BLK",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 35900,
+        "compareAtPrice": 38900
+      },
+      {
+        "_id": "variant_051",
+        "sku": "BQC-U-WHT",
+        "attributes": {
+          "color": "White Smoke"
+        },
+        "price": 35900,
+        "compareAtPrice": 38900
+      }
+    ],
+    "specifications": {
+      "driver": "Custom Bose Neodymium",
+      "battery": "24 Hours (18h Immersive)",
+      "connectivity": "Bluetooth 5.3, Snapdragon Sound",
+      "codecs": "aptX Adaptive, AAC, SBC",
+      "weight": "254g"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 2150
+    },
+    "tags": [
+      "bose",
+      "quietcomfort",
+      "travel-headphones",
+      "anc",
+      "spatial-sound"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_024",
+    "name": "Sennheiser Momentum 4 Wireless",
+    "slug": "sennheiser-momentum-4-wireless",
+    "description": "Audiophile-grade 42mm sound transducer delivering unrivaled musicality with an incredible 60-hour battery life.",
+    "brandId": "brand_018",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sennheiser Momentum 4 Wireless primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sennheiser Momentum 4 Wireless detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_052",
+        "sku": "MOM4-BLK",
+        "attributes": {
+          "color": "Matte Black"
+        },
+        "price": 29990,
+        "compareAtPrice": 34990
+      },
+      {
+        "_id": "variant_053",
+        "sku": "MOM4-DNM",
+        "attributes": {
+          "color": "Denim & Copper"
+        },
+        "price": 31990,
+        "compareAtPrice": 36990
+      }
+    ],
+    "specifications": {
+      "driver": "42mm Audiophile Transducer",
+      "battery": "60 Hours with ANC",
+      "connectivity": "Bluetooth 5.2, aptX Adaptive, USB-C DAC",
+      "weight": "293g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1420
+    },
+    "tags": [
+      "sennheiser",
+      "momentum",
+      "audiophile",
+      "long-battery",
+      "hi-fi"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_025",
+    "name": "Sony WF-1000XM5 Earbuds",
+    "slug": "sony-wf-1000xm5",
+    "description": "Precision engineered wireless earbuds with dual processor noise cancelling, bone conduction sensors, and LDAC audio.",
+    "brandId": "brand_003",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony WF-1000XM5 Earbuds primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony WF-1000XM5 Earbuds detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_054",
+        "sku": "WFXM5-BLK",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 21990,
+        "compareAtPrice": 24990
+      },
+      {
+        "_id": "variant_055",
+        "sku": "WFXM5-SLV",
+        "attributes": {
+          "color": "Platinum Silver"
+        },
+        "price": 21990,
+        "compareAtPrice": 24990
+      }
+    ],
+    "specifications": {
+      "driver": "Dynamic Driver X (8.4mm)",
+      "battery": "8h Earbuds + 16h Case",
+      "connectivity": "Bluetooth 5.3, Multipoint",
+      "resistance": "IPX4 water resistant",
+      "weight": "5.9g per bud"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1980
+    },
+    "tags": [
+      "sony",
+      "earbuds",
+      "tws",
+      "ldac",
+      "anc"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_026",
+    "name": "Apple AirPods Pro 3",
+    "slug": "apple-airpods-pro-3",
+    "description": "Next-gen H3 chip with 2x more Active Noise Cancellation, live conversation awareness, heart-rate tracking, and MagSafe USB-C case.",
+    "brandId": "brand_001",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple AirPods Pro 3 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple AirPods Pro 3 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_056",
+        "sku": "APP3-WHT",
+        "attributes": {
+          "color": "White"
+        },
+        "price": 24900,
+        "compareAtPrice": 26900
+      }
+    ],
+    "specifications": {
+      "chip": "Apple H3 + U2 Chip",
+      "battery": "6h Earbuds + 30h Case",
+      "connectivity": "Bluetooth 5.4, Find My Network",
+      "resistance": "IP54 Dust and Water",
+      "weight": "5.3g per bud"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 4890
+    },
+    "tags": [
+      "apple",
+      "airpods-pro",
+      "anc",
+      "spatial-audio",
+      "iphone-accessory"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_027",
+    "name": "Bose QuietComfort Ultra Earbuds",
+    "slug": "bose-quietcomfort-ultra-earbuds",
+    "description": "World-class quiet in a pocketable design, CustomTune audio calibration for your unique ear shape, and Snapdragon Sound.",
+    "brandId": "brand_008",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Bose QuietComfort Ultra Earbuds primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Bose QuietComfort Ultra Earbuds detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_057",
+        "sku": "BQCUB-BLK",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 23900,
+        "compareAtPrice": 25900
+      },
+      {
+        "_id": "variant_058",
+        "sku": "BQCUB-BLU",
+        "attributes": {
+          "color": "Moonstone Blue"
+        },
+        "price": 23900,
+        "compareAtPrice": 25900
+      }
+    ],
+    "specifications": {
+      "calibration": "CustomTune Technology",
+      "battery": "6h Earbuds + 18h Case",
+      "connectivity": "Bluetooth 5.3, aptX Adaptive",
+      "resistance": "IPX4",
+      "weight": "6.2g per bud"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1320
+    },
+    "tags": [
+      "bose",
+      "earbuds",
+      "immersive-audio",
+      "travel",
+      "anc"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_028",
+    "name": "Marshall Stanmore III Bluetooth Speaker",
+    "slug": "marshall-stanmore-iii-bluetooth-speaker",
+    "description": "Vintage rock-and-roll styling packing room-filling stereo sound, dual tweeters, outward-angled waveguides, and brass controls.",
+    "brandId": "brand_003",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Marshall Stanmore III Bluetooth Speaker primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Marshall Stanmore III Bluetooth Speaker detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_059",
+        "sku": "MS3-BLK",
+        "attributes": {
+          "color": "Vintage Black"
+        },
+        "price": 34999,
+        "compareAtPrice": 37999
+      },
+      {
+        "_id": "variant_060",
+        "sku": "MS3-CRM",
+        "attributes": {
+          "color": "Cream"
+        },
+        "price": 34999,
+        "compareAtPrice": 37999
+      }
+    ],
+    "specifications": {
+      "power": "80W Class D Amplifier",
+      "frequency": "45Hz - 20,000Hz",
+      "connectivity": "Bluetooth 5.2, 3.5mm AUX, RCA input",
+      "weight": "4.25kg"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 870
+    },
+    "tags": [
+      "marshall",
+      "home-speaker",
+      "retro-design",
+      "bluetooth-speaker",
+      "bass"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_029",
+    "name": "JBL Boombox 3 Wi-Fi",
+    "slug": "jbl-boombox-3-wifi",
+    "description": "Massive portable sound with monstrous bass, Dolby Atmos 3D audio, Wi-Fi 6 streaming, and rugged IP67 waterproof durability.",
+    "brandId": "brand_003",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1545454675-3531b543be5d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "JBL Boombox 3 Wi-Fi primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?auto=format&fit=crop&w=1000&q=80",
+        "alt": "JBL Boombox 3 Wi-Fi detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_061",
+        "sku": "JBL-BB3-BLK",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 39999,
+        "compareAtPrice": 44999
+      }
+    ],
+    "specifications": {
+      "power": "180W RMS (AC mode)",
+      "battery": "24 Hours Playtime (built-in powerbank)",
+      "connectivity": "Wi-Fi 6, AirPlay, Bluetooth 5.3",
+      "resistance": "IP67 Waterproof & Dustproof",
+      "weight": "6.7kg"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1100
+    },
+    "tags": [
+      "jbl",
+      "boombox",
+      "party-speaker",
+      "waterproof",
+      "outdoor"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_030",
+    "name": "Sonos Era 300 Smart Speaker",
+    "slug": "sonos-era-300-smart-speaker",
+    "description": "Revolutionary acoustic architecture with six optimal drivers projecting sound all around for groundbreaking Dolby Atmos spatial audio.",
+    "brandId": "brand_008",
+    "categoryId": "category_003",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sonos Era 300 Smart Speaker primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sonos Era 300 Smart Speaker detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_062",
+        "sku": "ERA300-BLK",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 49999,
+        "compareAtPrice": 54999
+      },
+      {
+        "_id": "variant_063",
+        "sku": "ERA300-WHT",
+        "attributes": {
+          "color": "White"
+        },
+        "price": 49999,
+        "compareAtPrice": 54999
+      }
+    ],
+    "specifications": {
+      "drivers": "4 Tweeters + 2 Woofers",
+      "audioFormats": "Dolby Atmos Music, Spatial Audio",
+      "connectivity": "Wi-Fi 6, Bluetooth 5.0, Apple AirPlay 2, USB-C Line In",
+      "weight": "4.47kg"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 680
+    },
+    "tags": [
+      "sonos",
+      "smart-speaker",
+      "dolby-atmos",
+      "multi-room",
+      "audiophile"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_031",
+    "name": "Apple Watch Ultra 3",
+    "slug": "apple-watch-ultra-3",
+    "description": "Rugged aerospace-grade titanium watch with dual-frequency GPS, siren, dive computer capability, and 72-hour battery.",
+    "brandId": "brand_001",
+    "categoryId": "category_004",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544117519-31a4b719223d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple Watch Ultra 3 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple Watch Ultra 3 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_064",
+        "sku": "AWU3-NAT-ORG",
+        "attributes": {
+          "color": "Natural Titanium (Orange Loop)",
+          "size": "49mm"
+        },
+        "price": 89900,
+        "compareAtPrice": 94900
+      },
+      {
+        "_id": "variant_065",
+        "sku": "AWU3-BLK-OCN",
+        "attributes": {
+          "color": "Black Titanium (Ocean Band)",
+          "size": "49mm"
+        },
+        "price": 89900,
+        "compareAtPrice": 94900
+      }
+    ],
+    "specifications": {
+      "display": "49mm Sapphire Crystal 3000 nits",
+      "battery": "Up to 72h low power",
+      "resistance": "100m Water, EN13319 Dive Certified",
+      "sensors": "ECG, SpO2, Skin Temp, Depth Gauge"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 1850
+    },
+    "tags": [
+      "apple",
+      "smartwatch",
+      "ultra",
+      "fitness",
+      "adventure"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_032",
+    "name": "Apple Watch Series 11",
+    "slug": "apple-watch-series-11",
+    "description": "Thinner profile with wider wide-angle OLED, sleep apnea detection, water temperature sensor, and fast charging.",
+    "brandId": "brand_001",
+    "categoryId": "category_004",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple Watch Series 11 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple Watch Series 11 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_066",
+        "sku": "AW11-BLK-42",
+        "attributes": {
+          "color": "Jet Black",
+          "size": "42mm"
+        },
+        "price": 46900,
+        "compareAtPrice": 49900
+      },
+      {
+        "_id": "variant_067",
+        "sku": "AW11-GLD-46",
+        "attributes": {
+          "color": "Rose Gold",
+          "size": "46mm"
+        },
+        "price": 49900,
+        "compareAtPrice": 52900
+      }
+    ],
+    "specifications": {
+      "display": "LTPO3 OLED Always-On 2000 nits",
+      "battery": "18 Hours (Fast charge 80% in 30min)",
+      "resistance": "50m Water Resistance",
+      "connectivity": "GPS + Cellular"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 2400
+    },
+    "tags": [
+      "apple",
+      "smartwatch",
+      "health-tracker",
+      "ecg",
+      "lifestyle"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_033",
+    "name": "Samsung Galaxy Watch 8 Ultra",
+    "slug": "samsung-galaxy-watch-8-ultra",
+    "description": "Built for extreme endurance with Cushion design, BioActive sensor, dual GPS, and personalized AI coaching.",
+    "brandId": "brand_002",
+    "categoryId": "category_004",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy Watch 8 Ultra primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy Watch 8 Ultra detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_068",
+        "sku": "GW8U-SLV-47",
+        "attributes": {
+          "color": "Titanium Silver",
+          "size": "47mm"
+        },
+        "price": 59999,
+        "compareAtPrice": 64999
+      },
+      {
+        "_id": "variant_069",
+        "sku": "GW8U-GRY-47",
+        "attributes": {
+          "color": "Titanium Gray",
+          "size": "47mm"
+        },
+        "price": 59999,
+        "compareAtPrice": 64999
+      }
+    ],
+    "specifications": {
+      "display": "1.5 inch Super AMOLED 3000 nits",
+      "battery": "Up to 100h in Power Saving",
+      "resistance": "10 ATM + IP68, MIL-STD-810H",
+      "sensors": "BioActive, Energy Score, ECG"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1200
+    },
+    "tags": [
+      "samsung",
+      "galaxy-watch",
+      "wear-os",
+      "fitness",
+      "outdoor"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_034",
+    "name": "Samsung Galaxy Watch 8",
+    "slug": "samsung-galaxy-watch-8",
+    "description": "Slim, lightweight everyday smartwatch with 3nm processor, advanced sleep coaching, and seamless Galaxy ecosystem integration.",
+    "brandId": "brand_002",
+    "categoryId": "category_004",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy Watch 8 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy Watch 8 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_070",
+        "sku": "GW8-SLV-40",
+        "attributes": {
+          "color": "Silver",
+          "size": "40mm"
+        },
+        "price": 29999,
+        "compareAtPrice": 32999
+      },
+      {
+        "_id": "variant_071",
+        "sku": "GW8-GRN-44",
+        "attributes": {
+          "color": "Dark Green",
+          "size": "44mm"
+        },
+        "price": 32999,
+        "compareAtPrice": 35999
+      }
+    ],
+    "specifications": {
+      "display": "1.3 inch Super AMOLED Always-On",
+      "battery": "300mAh (40 hours)",
+      "resistance": "5 ATM + IP68",
+      "connectivity": "Bluetooth 5.3, Wi-Fi, NFC"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 950
+    },
+    "tags": [
+      "samsung",
+      "wear-os",
+      "smartwatch",
+      "sleep-tracking"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_035",
+    "name": "Garmin Fenix 8 Sapphire",
+    "slug": "garmin-fenix-8-sapphire",
+    "description": "Ultimate multisport GPS smartwatch with AMOLED display, built-in LED flashlight, titanium bezel, and offline TOPO maps.",
+    "brandId": "brand_019",
+    "categoryId": "category_004",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Garmin Fenix 8 Sapphire primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Garmin Fenix 8 Sapphire detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_072",
+        "sku": "FEN8-GRY-47",
+        "attributes": {
+          "color": "Carbon Gray DLC Titanium",
+          "size": "47mm"
+        },
+        "price": 99990,
+        "compareAtPrice": 104990
+      },
+      {
+        "_id": "variant_073",
+        "sku": "FEN8-ORG-51",
+        "attributes": {
+          "color": "Titanium with Orange Band",
+          "size": "51mm"
+        },
+        "price": 109990,
+        "compareAtPrice": 114990
+      }
+    ],
+    "specifications": {
+      "display": "1.4 inch AMOLED Sapphire",
+      "battery": "Up to 16 days in smartwatch mode",
+      "sensors": "SatIQ GPS, Multi-GNSS, PulseOx",
+      "resistance": "100m Dive Rated with leakproof buttons"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 820
+    },
+    "tags": [
+      "garmin",
+      "fenix",
+      "multisport",
+      "topo-maps",
+      "triathlon"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_036",
+    "name": "Garmin Forerunner 965",
+    "slug": "garmin-forerunner-965",
+    "description": "Lightweight titanium-bezel running smartwatch with brilliant AMOLED touchscreen, training readiness, and detailed recovery metrics.",
+    "brandId": "brand_019",
+    "categoryId": "category_004",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Garmin Forerunner 965 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Garmin Forerunner 965 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_074",
+        "sku": "FR965-BLK",
+        "attributes": {
+          "color": "Black Titanium"
+        },
+        "price": 67490,
+        "compareAtPrice": 71990
+      },
+      {
+        "_id": "variant_075",
+        "sku": "FR965-YEL",
+        "attributes": {
+          "color": "Amp Yellow"
+        },
+        "price": 67490,
+        "compareAtPrice": 71990
+      }
+    ],
+    "specifications": {
+      "display": "1.4 inch AMOLED Touch",
+      "battery": "Up to 23 days (31h GPS)",
+      "weight": "53g",
+      "maps": "Full Color Onboard Maps"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 640
+    },
+    "tags": [
+      "garmin",
+      "running",
+      "marathon",
+      "gps-watch",
+      "vo2max"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_037",
+    "name": "Google Pixel Watch 4",
+    "slug": "google-pixel-watch-4",
+    "description": "Seamless circular domed glass design with Fitbit health integration, Gemini AI assistant, and dual-frequency GPS tracking.",
+    "brandId": "brand_010",
+    "categoryId": "category_004",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Google Pixel Watch 4 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Google Pixel Watch 4 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_076",
+        "sku": "PW4-BLK-41",
+        "attributes": {
+          "color": "Matte Black",
+          "size": "41mm"
+        },
+        "price": 39900,
+        "compareAtPrice": 42900
+      },
+      {
+        "_id": "variant_077",
+        "sku": "PW4-SLV-45",
+        "attributes": {
+          "color": "Polished Silver",
+          "size": "45mm"
+        },
+        "price": 43900,
+        "compareAtPrice": 46900
+      }
+    ],
+    "specifications": {
+      "display": "Actua 3D Glass AMOLED 2000 nits",
+      "battery": "36 Hours battery saver",
+      "operatingSystem": "Wear OS 5.5",
+      "sensors": "cEDA Stress Sensor, ECG, SpO2"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 580
+    },
+    "tags": [
+      "google",
+      "pixel-watch",
+      "fitbit",
+      "gemini-ai",
+      "wear-os"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_038",
+    "name": "OnePlus Watch 3",
+    "slug": "oneplus-watch-3",
+    "description": "Dual-engine architecture offering up to 100 hours of battery in Smart Mode, 1.43-inch AMOLED, and stainless steel chassis.",
+    "brandId": "brand_011",
+    "categoryId": "category_004",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?auto=format&fit=crop&w=1000&q=80",
+        "alt": "OnePlus Watch 3 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1510017803434-a899398421b3?auto=format&fit=crop&w=1000&q=80",
+        "alt": "OnePlus Watch 3 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_078",
+        "sku": "OPW3-STL",
+        "attributes": {
+          "color": "Radiant Steel"
+        },
+        "price": 24999,
+        "compareAtPrice": 27999
+      },
+      {
+        "_id": "variant_079",
+        "sku": "OPW3-BLK",
+        "attributes": {
+          "color": "Black Steel"
+        },
+        "price": 24999,
+        "compareAtPrice": 27999
+      }
+    ],
+    "specifications": {
+      "chip": "Snapdragon W5 + BES2700 Dual Chips",
+      "battery": "500mAh (Up to 100 Hours)",
+      "operatingSystem": "Wear OS by Google",
+      "resistance": "5 ATM + IP68, MIL-STD-810H"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 870
+    },
+    "tags": [
+      "oneplus",
+      "long-battery",
+      "wear-os",
+      "budget-flagship"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_039",
+    "name": "Oura Ring Gen 4",
+    "slug": "oura-ring-gen-4",
+    "description": "Smart titanium ring providing lab-accurate sleep stages, readiness score, heart rate variability, and cycle tracking without a screen.",
+    "brandId": "brand_019",
+    "categoryId": "category_004",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544117519-31a4b719223d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Oura Ring Gen 4 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Oura Ring Gen 4 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_080",
+        "sku": "OURA4-SLV-10",
+        "attributes": {
+          "color": "Brushed Silver",
+          "size": "Size 10"
+        },
+        "price": 34999,
+        "compareAtPrice": 37999
+      },
+      {
+        "_id": "variant_081",
+        "sku": "OURA4-STL-11",
+        "attributes": {
+          "color": "Stealth Black",
+          "size": "Size 11"
+        },
+        "price": 39999,
+        "compareAtPrice": 42999
+      }
+    ],
+    "specifications": {
+      "material": "Titanium with PVD Coating",
+      "battery": "Up to 8 days per charge",
+      "resistance": "100m Water Resistant",
+      "sensors": "Infrared Optical Heart Rate, Skin Temp"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1450
+    },
+    "tags": [
+      "oura",
+      "smart-ring",
+      "sleep-tracking",
+      "recovery",
+      "wearable"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_040",
+    "name": "WHOOP 5.0 Performance Tracker",
+    "slug": "whoop-5-performance-tracker",
+    "description": "Screenless biometric sensor band engineered for elite athletes to measure 24/7 strain, recovery, and sleep efficiency.",
+    "brandId": "brand_019",
+    "categoryId": "category_004",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1000&q=80",
+        "alt": "WHOOP 5.0 Performance Tracker primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1000&q=80",
+        "alt": "WHOOP 5.0 Performance Tracker detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_082",
+        "sku": "WHOOP5-ONX",
+        "attributes": {
+          "color": "Onyx Black"
+        },
+        "price": 24999,
+        "compareAtPrice": 27999
+      }
+    ],
+    "specifications": {
+      "connectivity": "Bluetooth BLE",
+      "battery": "5 days (wireless on-wrist battery pack)",
+      "resistance": "IP68 Waterproof up to 10m",
+      "sensors": "5 LEDs + 4 Photodiodes"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1100
+    },
+    "tags": [
+      "whoop",
+      "athletic-performance",
+      "recovery",
+      "heart-rate",
+      "screenless"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_041",
+    "name": "Apple iPad Pro 13 M4",
+    "slug": "apple-ipad-pro-13-m4",
+    "description": "The thinnest Apple device ever made with tandem Ultra Retina XDR OLED, M4 chip, and Apple Pencil Pro support.",
+    "brandId": "brand_001",
+    "categoryId": "category_005",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple iPad Pro 13 M4 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple iPad Pro 13 M4 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_083",
+        "sku": "IPAD-P13-BLK-256",
+        "attributes": {
+          "color": "Space Black",
+          "storage": "256GB Wi-Fi"
+        },
+        "price": 129900,
+        "compareAtPrice": 134900
+      },
+      {
+        "_id": "variant_084",
+        "sku": "IPAD-P13-SLV-512",
+        "attributes": {
+          "color": "Silver",
+          "storage": "512GB Cellular"
+        },
+        "price": 169900,
+        "compareAtPrice": 174900
+      }
+    ],
+    "specifications": {
+      "display": "13 inch Tandem OLED 120Hz",
+      "processor": "Apple M4",
+      "ram": "8GB/16GB Unified",
+      "camera": "12MP Center Stage",
+      "thickness": "5.1mm"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 920
+    },
+    "tags": [
+      "apple",
+      "ipad",
+      "oled-tablet",
+      "m4",
+      "apple-pencil"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_042",
+    "name": "Apple iPad Air 11 M2",
+    "slug": "apple-ipad-air-11-m2",
+    "description": "Supercharged by the M2 chip with Liquid Retina display, landscape stereo speakers, and versatile keyboard support.",
+    "brandId": "brand_001",
+    "categoryId": "category_005",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple iPad Air 11 M2 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple iPad Air 11 M2 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_085",
+        "sku": "IPAD-AIR-GRY-128",
+        "attributes": {
+          "color": "Space Gray",
+          "storage": "128GB Wi-Fi"
+        },
+        "price": 59900,
+        "compareAtPrice": 62900
+      },
+      {
+        "_id": "variant_086",
+        "sku": "IPAD-AIR-STR-256",
+        "attributes": {
+          "color": "Starlight",
+          "storage": "256GB Wi-Fi"
+        },
+        "price": 69900,
+        "compareAtPrice": 72900
+      }
+    ],
+    "specifications": {
+      "display": "11 inch Liquid Retina True Tone",
+      "processor": "Apple M2",
+      "ram": "8GB",
+      "camera": "12MP Landscape Front Camera",
+      "battery": "28.93Wh"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1420
+    },
+    "tags": [
+      "apple",
+      "ipad-air",
+      "m2",
+      "student-tablet",
+      "productivity"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_043",
+    "name": "Apple iPad mini 7",
+    "slug": "apple-ipad-mini-7",
+    "description": "Compact 8.3-inch powerhouse packed with A17 Pro, Apple Intelligence support, Wi-Fi 6E, and ultra-fast USB-C.",
+    "brandId": "brand_001",
+    "categoryId": "category_005",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple iPad mini 7 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple iPad mini 7 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_087",
+        "sku": "IPAD-MINI-GRY-128",
+        "attributes": {
+          "color": "Space Gray",
+          "storage": "128GB"
+        },
+        "price": 49900,
+        "compareAtPrice": 52900
+      },
+      {
+        "_id": "variant_088",
+        "sku": "IPAD-MINI-PUR-256",
+        "attributes": {
+          "color": "Purple",
+          "storage": "256GB"
+        },
+        "price": 59900,
+        "compareAtPrice": 62900
+      }
+    ],
+    "specifications": {
+      "display": "8.3 inch Liquid Retina",
+      "processor": "Apple A17 Pro",
+      "ram": "8GB",
+      "weight": "293g",
+      "connectivity": "Wi-Fi 6E + Bluetooth 5.3"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 850
+    },
+    "tags": [
+      "apple",
+      "ipad-mini",
+      "compact-tablet",
+      "portable",
+      "a17-pro"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_044",
+    "name": "Samsung Galaxy Tab S10 Ultra",
+    "slug": "samsung-galaxy-tab-s10-ultra",
+    "description": "Colossal 14.6-inch anti-reflective Dynamic AMOLED 2X tablet with bundled S-Pen, IP68 water resistance, and Galaxy AI.",
+    "brandId": "brand_002",
+    "categoryId": "category_005",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy Tab S10 Ultra primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy Tab S10 Ultra detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_089",
+        "sku": "TABS10U-GRY-256",
+        "attributes": {
+          "color": "Moonstone Gray",
+          "storage": "256GB Wi-Fi"
+        },
+        "price": 108999,
+        "compareAtPrice": 114999
+      },
+      {
+        "_id": "variant_090",
+        "sku": "TABS10U-SLV-512",
+        "attributes": {
+          "color": "Platinum Silver",
+          "storage": "512GB 5G"
+        },
+        "price": 133999,
+        "compareAtPrice": 139999
+      }
+    ],
+    "specifications": {
+      "display": "14.6 inch Dynamic AMOLED 2X Anti-Reflective",
+      "processor": "MediaTek Dimensity 9300+",
+      "ram": "12GB",
+      "battery": "11,200mAh (45W)",
+      "stylus": "S-Pen Included"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 620
+    },
+    "tags": [
+      "samsung",
+      "galaxy-tab",
+      "android-tablet",
+      "huge-screen",
+      "s-pen"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_045",
+    "name": "Samsung Galaxy Tab S10+",
+    "slug": "samsung-galaxy-tab-s10-plus",
+    "description": "The ideal balance of 12.4-inch portable screen size, quad AKG speakers, DeX desktop mode, and S-Pen drawing precision.",
+    "brandId": "brand_002",
+    "categoryId": "category_005",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy Tab S10+ primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Galaxy Tab S10+ detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_091",
+        "sku": "TABS10P-GRY-256",
+        "attributes": {
+          "color": "Moonstone Gray",
+          "storage": "256GB"
+        },
+        "price": 90999,
+        "compareAtPrice": 95999
+      }
+    ],
+    "specifications": {
+      "display": "12.4 inch Dynamic AMOLED 2X 120Hz",
+      "processor": "MediaTek Dimensity 9300+",
+      "ram": "12GB",
+      "battery": "10,090mAh",
+      "weight": "571g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 540
+    },
+    "tags": [
+      "samsung",
+      "tab-s10",
+      "dex",
+      "creative",
+      "amoled"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_046",
+    "name": "Microsoft Surface Pro 11",
+    "slug": "microsoft-surface-pro-11",
+    "description": "Copilot+ 2-in-1 PC with optional OLED touch display, Snapdragon X Elite power, and detachable Surface Pro Flex keyboard.",
+    "brandId": "brand_016",
+    "categoryId": "category_005",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Microsoft Surface Pro 11 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Microsoft Surface Pro 11 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_092",
+        "sku": "SP11-PLT-512",
+        "attributes": {
+          "color": "Platinum",
+          "storage": "512GB SSD"
+        },
+        "price": 139999,
+        "compareAtPrice": 144999
+      },
+      {
+        "_id": "variant_093",
+        "sku": "SP11-BLU-1TB",
+        "attributes": {
+          "color": "Sapphire",
+          "storage": "1TB SSD"
+        },
+        "price": 169999,
+        "compareAtPrice": 174999
+      }
+    ],
+    "specifications": {
+      "display": "13 inch PixelSense OLED 120Hz Touch",
+      "processor": "Snapdragon X Elite",
+      "ram": "16GB LPDDR5X",
+      "battery": "53Wh (Up to 14h video playback)",
+      "weight": "895g"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 480
+    },
+    "tags": [
+      "microsoft",
+      "surface-pro",
+      "copilot-plus",
+      "tablet-pc",
+      "windows-11"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_047",
+    "name": "Lenovo Tab P12 Pro",
+    "slug": "lenovo-tab-p12-pro",
+    "description": "Premium entertainment and productivity tablet with 12.6-inch 2K AMOLED, quad JBL speakers, and bundled Precision Pen 3.",
+    "brandId": "brand_006",
+    "categoryId": "category_005",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Lenovo Tab P12 Pro primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Lenovo Tab P12 Pro detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_094",
+        "sku": "P12P-GRY-256",
+        "attributes": {
+          "color": "Storm Grey",
+          "storage": "256GB"
+        },
+        "price": 59999,
+        "compareAtPrice": 64999
+      }
+    ],
+    "specifications": {
+      "display": "12.6 inch 2K AMOLED 120Hz HDR10+",
+      "processor": "Qualcomm Snapdragon 870",
+      "ram": "8GB",
+      "battery": "10,200mAh (45W)",
+      "audio": "Quad JBL Dolby Atmos"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 390
+    },
+    "tags": [
+      "lenovo",
+      "android-tablet",
+      "entertainment",
+      "jbl-audio"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_048",
+    "name": "Amazon Kindle Scribe 2",
+    "slug": "amazon-kindle-scribe-2",
+    "description": "First Kindle designed for both reading and writing with flush 10.2-inch 300 ppi glare-free screen and Premium Pen.",
+    "brandId": "brand_016",
+    "categoryId": "category_005",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Amazon Kindle Scribe 2 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Amazon Kindle Scribe 2 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_095",
+        "sku": "KND-SCR-32",
+        "attributes": {
+          "color": "Tungsten",
+          "storage": "32GB"
+        },
+        "price": 34999,
+        "compareAtPrice": 37999
+      },
+      {
+        "_id": "variant_096",
+        "sku": "KND-SCR-64",
+        "attributes": {
+          "color": "Tungsten",
+          "storage": "64GB"
+        },
+        "price": 39999,
+        "compareAtPrice": 42999
+      }
+    ],
+    "specifications": {
+      "display": "10.2 inch Paperwhite 300 ppi",
+      "frontLight": "35 LEDs with Warm Light Adjustment",
+      "battery": "Weeks of battery life",
+      "stylus": "Battery-free Premium Pen"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 780
+    },
+    "tags": [
+      "amazon",
+      "kindle",
+      "e-ink",
+      "note-taking",
+      "e-reader"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_049",
+    "name": "Amazon Kindle Paperwhite Signature",
+    "slug": "amazon-kindle-paperwhite-signature",
+    "description": "The world's favorite e-reader with 7-inch 300 ppi display, auto-adjusting light, wireless charging, and 3-month battery.",
+    "brandId": "brand_016",
+    "categoryId": "category_005",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Amazon Kindle Paperwhite Signature primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1561154464-82e9adf32764?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Amazon Kindle Paperwhite Signature detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_097",
+        "sku": "KND-PW-BLK",
+        "attributes": {
+          "color": "Metallic Black",
+          "storage": "32GB"
+        },
+        "price": 17999,
+        "compareAtPrice": 19999
+      }
+    ],
+    "specifications": {
+      "display": "7.0 inch Glare-Free E-ink 300 ppi",
+      "battery": "Up to 12 weeks",
+      "charging": "USB-C + Qi Wireless",
+      "resistance": "IPX8 Waterproof"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 5400
+    },
+    "tags": [
+      "amazon",
+      "kindle",
+      "paperwhite",
+      "books",
+      "waterproof"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_050",
+    "name": "Kobo Clara Colour E-Reader",
+    "slug": "kobo-clara-colour",
+    "description": "Bring your library to life with Kaleido 3 color e-paper, ComfortLight PRO blue light reduction, and waterproof construction.",
+    "brandId": "brand_016",
+    "categoryId": "category_005",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Kobo Clara Colour E-Reader primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Kobo Clara Colour E-Reader detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_098",
+        "sku": "KOBO-COL-16",
+        "attributes": {
+          "color": "Black",
+          "storage": "16GB"
+        },
+        "price": 15999,
+        "compareAtPrice": 17999
+      }
+    ],
+    "specifications": {
+      "display": "6.0 inch E Ink Kaleido 3 Color Screen",
+      "storage": "Holds up to 12,000 books",
+      "lighting": "ComfortLight PRO",
+      "resistance": "IPX8 Waterproof"
+    },
+    "rating": {
+      "average": 4.5,
+      "count": 420
+    },
+    "tags": [
+      "kobo",
+      "color-eink",
+      "comics",
+      "e-reader",
+      "lightweight"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_051",
+    "name": "Sony PlayStation 5 Pro",
+    "slug": "sony-playstation-5-pro",
+    "description": "PlayStation Spectral Super Resolution (PSSR) AI upscaling, 2TB SSD, advanced ray tracing, and 60FPS fidelity mode.",
+    "brandId": "brand_003",
+    "categoryId": "category_006",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony PlayStation 5 Pro primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony PlayStation 5 Pro detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_099",
+        "sku": "PS5-PRO-2TB",
+        "attributes": {
+          "color": "Classic White & Black",
+          "storage": "2TB SSD"
+        },
+        "price": 69990,
+        "compareAtPrice": 74990
+      }
+    ],
+    "specifications": {
+      "gpu": "16.7 TFLOPs RDNA graphics",
+      "storage": "2TB Custom NVMe SSD",
+      "resolution": "4K 60/120FPS with PSSR AI",
+      "audio": "Tempest 3D AudioTech"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 3100
+    },
+    "tags": [
+      "sony",
+      "playstation",
+      "ps5-pro",
+      "console-gaming",
+      "4k-120fps"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_052",
+    "name": "Microsoft Xbox Series X 2TB",
+    "slug": "microsoft-xbox-series-x-2tb",
+    "description": "The fastest, most powerful Xbox in a sleek Robot White special edition with a massive 2TB internal SSD and Xbox Game Pass.",
+    "brandId": "brand_016",
+    "categoryId": "category_006",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Microsoft Xbox Series X 2TB primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Microsoft Xbox Series X 2TB detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_100",
+        "sku": "XBX-2TB-WHT",
+        "attributes": {
+          "color": "Robot White",
+          "storage": "2TB SSD"
+        },
+        "price": 57990,
+        "compareAtPrice": 62990
+      }
+    ],
+    "specifications": {
+      "processor": "Custom Zen 2 8-core CPU",
+      "gpu": "12 TFLOPS RDNA 2",
+      "storage": "2TB NVMe SSD",
+      "resolution": "Native 4K 120FPS"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1800
+    },
+    "tags": [
+      "xbox",
+      "series-x",
+      "microsoft",
+      "game-pass",
+      "console"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_053",
+    "name": "Nintendo Switch 2 OLED",
+    "slug": "nintendo-switch-2-oled",
+    "description": "Next-generation hybrid console with NVIDIA DLSS upscaling, 8-inch 1080p OLED screen, magnetic Joy-Cons, and 4K TV dock output.",
+    "brandId": "brand_005",
+    "categoryId": "category_006",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1612287270397-6a1612e4310d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Nintendo Switch 2 OLED primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Nintendo Switch 2 OLED detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_101",
+        "sku": "NSW2-NEON-256",
+        "attributes": {
+          "color": "Neon Red & Blue",
+          "storage": "256GB"
+        },
+        "price": 39999,
+        "compareAtPrice": 42999
+      },
+      {
+        "_id": "variant_102",
+        "sku": "NSW2-WHT-256",
+        "attributes": {
+          "color": "White Edition",
+          "storage": "256GB"
+        },
+        "price": 39999,
+        "compareAtPrice": 42999
+      }
+    ],
+    "specifications": {
+      "display": "8.0 inch 1080p OLED Touch",
+      "chipset": "Custom NVIDIA Tegra with DLSS",
+      "storage": "256GB UFS Storage (microSD expandable)",
+      "dockOutput": "4K 60FPS HDMI"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 4200
+    },
+    "tags": [
+      "nintendo",
+      "switch-2",
+      "handheld-gaming",
+      "zelda",
+      "mario"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_054",
+    "name": "Valve Steam Deck OLED 1TB",
+    "slug": "valve-steam-deck-oled-1tb",
+    "description": "Breathtaking 7.4-inch 90Hz HDR OLED display, custom 6nm AMD APU, etched anti-glare glass, and seamless access to your Steam library.",
+    "brandId": "brand_005",
+    "categoryId": "category_006",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Valve Steam Deck OLED 1TB primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Valve Steam Deck OLED 1TB detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_103",
+        "sku": "STMD-OLED-1TB",
+        "attributes": {
+          "color": "Stealth Black",
+          "storage": "1TB NVMe SSD"
+        },
+        "price": 64999,
+        "compareAtPrice": 69999
+      }
+    ],
+    "specifications": {
+      "display": "7.4 inch HDR OLED 90Hz 1000 nits",
+      "processor": "6nm AMD Sephiroth APU",
+      "battery": "50Wh (3-12 hours gaming)",
+      "weight": "640g"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 2800
+    },
+    "tags": [
+      "valve",
+      "steam-deck",
+      "oled-handheld",
+      "pc-gaming",
+      "steam-os"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_055",
+    "name": "ASUS ROG Ally X",
+    "slug": "asus-rog-ally-x",
+    "description": "Upgraded Windows handheld monster featuring AMD Ryzen Z1 Extreme, 24GB LPDDR5X RAM, 1TB SSD, and huge 80Wh battery.",
+    "brandId": "brand_005",
+    "categoryId": "category_006",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=1000&q=80",
+        "alt": "ASUS ROG Ally X primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "ASUS ROG Ally X detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_104",
+        "sku": "ALLYX-BLK-1TB",
+        "attributes": {
+          "color": "Stealth Black",
+          "storage": "1TB SSD"
+        },
+        "price": 89999,
+        "compareAtPrice": 94999
+      }
+    ],
+    "specifications": {
+      "display": "7 inch FHD 120Hz 500 nits FreeSync",
+      "processor": "AMD Ryzen Z1 Extreme",
+      "ram": "24GB LPDDR5X-7500",
+      "battery": "80Wh",
+      "ports": "Dual USB-C (Thunderbolt 4 support)"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1100
+    },
+    "tags": [
+      "asus",
+      "rog-ally",
+      "handheld-pc",
+      "windows-gaming",
+      "z1-extreme"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_056",
+    "name": "Lenovo Legion Go 2",
+    "slug": "lenovo-legion-go-2",
+    "description": "Massive 8.8-inch QHD+ 144Hz display with detachable TrueStrike controllers featuring FPS mouse mode and built-in kickstand.",
+    "brandId": "brand_006",
+    "categoryId": "category_006",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Lenovo Legion Go 2 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Lenovo Legion Go 2 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_105",
+        "sku": "LEGO2-BLK-1TB",
+        "attributes": {
+          "color": "Shadow Black",
+          "storage": "1TB SSD"
+        },
+        "price": 79999,
+        "compareAtPrice": 84999
+      }
+    ],
+    "specifications": {
+      "display": "8.8 inch QHD+ 144Hz 500 nits",
+      "processor": "AMD Ryzen Z1 Extreme",
+      "controllers": "Detachable with Optical Trackpad & Hall Effect",
+      "battery": "65Wh"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 730
+    },
+    "tags": [
+      "lenovo",
+      "legion-go",
+      "fps-mode",
+      "gaming-handheld",
+      "qhd"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_057",
+    "name": "Sony DualSense Edge Wireless Controller",
+    "slug": "sony-dualsense-edge-wireless-controller",
+    "description": "Ultra-customizable pro controller with swappable stick modules, mappable rear buttons, adjustable trigger stops, and profile switching.",
+    "brandId": "brand_003",
+    "categoryId": "category_006",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony DualSense Edge Wireless Controller primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony DualSense Edge Wireless Controller detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_106",
+        "sku": "DSE-WHT",
+        "attributes": {
+          "color": "White & Gloss Black"
+        },
+        "price": 18990,
+        "compareAtPrice": 20990
+      }
+    ],
+    "specifications": {
+      "features": "Haptic Feedback, Adaptive Triggers, Replaceable Stick Modules",
+      "connectivity": "Bluetooth & Braided USB-C Cable",
+      "case": "Carrying Case Included with charging port"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1650
+    },
+    "tags": [
+      "sony",
+      "dualsense",
+      "pro-controller",
+      "ps5-accessory",
+      "esports"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_058",
+    "name": "Microsoft Xbox Elite Wireless Controller Series 2",
+    "slug": "microsoft-xbox-elite-controller-series-2",
+    "description": "Engineered for elite performance with adjustable-tension thumbsticks, wrap-around rubberized grip, hair trigger locks, and 40h battery.",
+    "brandId": "brand_016",
+    "categoryId": "category_006",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Microsoft Xbox Elite Wireless Controller Series 2 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Microsoft Xbox Elite Wireless Controller Series 2 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_107",
+        "sku": "XEL2-WHT",
+        "attributes": {
+          "color": "Core White"
+        },
+        "price": 13990,
+        "compareAtPrice": 15990
+      },
+      {
+        "_id": "variant_108",
+        "sku": "XEL2-BLK",
+        "attributes": {
+          "color": "Complete Black"
+        },
+        "price": 17990,
+        "compareAtPrice": 19990
+      }
+    ],
+    "specifications": {
+      "battery": "Up to 40 Hours Internal Rechargeable",
+      "paddles": "4 Interchangeable Rear Paddles",
+      "compatibility": "Xbox Series X|S, Xbox One, Windows PC, Android, iOS"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2100
+    },
+    "tags": [
+      "xbox",
+      "elite-controller",
+      "customizable",
+      "paddles",
+      "pc-gaming"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_059",
+    "name": "Meta Quest 3S VR Headset",
+    "slug": "meta-quest-3s-vr-headset",
+    "description": "Affordable full-color mixed reality headset powered by Snapdragon XR2 Gen 2, precision Touch Plus controllers, and expansive 3D audio.",
+    "brandId": "brand_016",
+    "categoryId": "category_006",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1612287270397-6a1612e4310d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Meta Quest 3S VR Headset primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Meta Quest 3S VR Headset detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_109",
+        "sku": "MQ3S-WHT-128",
+        "attributes": {
+          "color": "White",
+          "storage": "128GB"
+        },
+        "price": 29999,
+        "compareAtPrice": 32999
+      },
+      {
+        "_id": "variant_110",
+        "sku": "MQ3S-WHT-256",
+        "attributes": {
+          "color": "White",
+          "storage": "256GB"
+        },
+        "price": 37999,
+        "compareAtPrice": 40999
+      }
+    ],
+    "specifications": {
+      "chipset": "Snapdragon XR2 Gen 2",
+      "passthrough": "High-Def Full Color Mixed Reality",
+      "controllers": "Touch Plus Ringless Controllers",
+      "audio": "Integrated Spatial 3D Audio"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1400
+    },
+    "tags": [
+      "meta",
+      "quest-3s",
+      "virtual-reality",
+      "mixed-reality",
+      "vr-gaming"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_060",
+    "name": "PlayStation VR2 Horizon Call of the Mountain Bundle",
+    "slug": "playstation-vr2-horizon-bundle",
+    "description": "Groundbreaking 4K HDR OLED visual fidelity, headset haptic feedback, 3D audio, and eye-tracking technology for PlayStation 5.",
+    "brandId": "brand_003",
+    "categoryId": "category_006",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1592840496694-26d035b52b48?auto=format&fit=crop&w=1000&q=80",
+        "alt": "PlayStation VR2 Horizon Call of the Mountain Bundle primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=1000&q=80",
+        "alt": "PlayStation VR2 Horizon Call of the Mountain Bundle detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_111",
+        "sku": "PSVR2-HORIZON",
+        "attributes": {
+          "color": "PlayStation White"
+        },
+        "price": 54990,
+        "compareAtPrice": 59990
+      }
+    ],
+    "specifications": {
+      "display": "2000 x 2040 per eye OLED HDR 120Hz",
+      "fov": "110 Degrees",
+      "sensors": "6-axis Motion, IR Proximity, Eye Tracking",
+      "controllers": "PS VR2 Sense Controllers with Haptics"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 850
+    },
+    "tags": [
+      "sony",
+      "psvr2",
+      "vr",
+      "playstation-5",
+      "horizon"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_061",
+    "name": "Sony Alpha A7 V Mirrorless Camera",
+    "slug": "sony-alpha-a7-v",
+    "description": "Revolutionary 44MP BSI sensor with dedicated AI autofocus processing unit, 8K video, and 8-stop in-body stabilization.",
+    "brandId": "brand_003",
+    "categoryId": "category_007",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony Alpha A7 V Mirrorless Camera primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony Alpha A7 V Mirrorless Camera detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_112",
+        "sku": "ILCE-7M5-BODY",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 239990,
+        "compareAtPrice": 249990
+      },
+      {
+        "_id": "variant_113",
+        "sku": "ILCE-7M5-KIT",
+        "attributes": {
+          "color": "Black with 28-70mm Kit"
+        },
+        "price": 259990,
+        "compareAtPrice": 269990
+      }
+    ],
+    "specifications": {
+      "sensor": "44MP Full-Frame Exmor R CMOS",
+      "autofocus": "AI-Based Real-time Recognition AF",
+      "video": "4K 120p, 8K 30p 10-bit 4:2:2",
+      "stabilization": "8.0-stop 5-axis IBIS"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 740
+    },
+    "tags": [
+      "sony",
+      "mirrorless-camera",
+      "full-frame",
+      "4k120p",
+      "photography"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_062",
+    "name": "Canon EOS R5 Mark II",
+    "slug": "canon-eos-r5-mark-ii",
+    "description": "Professional powerhouse with 45MP back-illuminated stacked sensor, eye control autofocus, and RAW 8K 60p internal recording.",
+    "brandId": "brand_013",
+    "categoryId": "category_007",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Canon EOS R5 Mark II primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Canon EOS R5 Mark II detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_114",
+        "sku": "EOS-R5M2-BODY",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 389990,
+        "compareAtPrice": 399990
+      }
+    ],
+    "specifications": {
+      "sensor": "45MP Stacked Full-Frame CMOS",
+      "video": "8K 60p RAW / 4K 120p",
+      "autofocus": "Accelerated Capture Dual Pixel AF",
+      "burst": "Up to 30 fps Electronic Shutter"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 520
+    },
+    "tags": [
+      "canon",
+      "eos-r5",
+      "pro-cinema",
+      "8k-video",
+      "commercial-photography"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_063",
+    "name": "Fujifilm X-T50 Mirrorless",
+    "slug": "fujifilm-x-t50",
+    "description": "Classic rangefinder styling with 40.2MP X-Trans CMOS 5 HR sensor, dedicated Film Simulation dial, and 7-stop IBIS.",
+    "brandId": "brand_003",
+    "categoryId": "category_007",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Fujifilm X-T50 Mirrorless primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Fujifilm X-T50 Mirrorless detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_115",
+        "sku": "XT50-SLV",
+        "attributes": {
+          "color": "Silver"
+        },
+        "price": 139999,
+        "compareAtPrice": 144999
+      },
+      {
+        "_id": "variant_116",
+        "sku": "XT50-CHR",
+        "attributes": {
+          "color": "Charcoal Silver"
+        },
+        "price": 139999,
+        "compareAtPrice": 144999
+      }
+    ],
+    "specifications": {
+      "sensor": "40.2MP X-Trans CMOS 5 HR",
+      "video": "6.2K 30p / 4K 60p",
+      "features": "Dedicated Film Simulation Dial",
+      "weight": "438g"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 910
+    },
+    "tags": [
+      "fujifilm",
+      "film-simulation",
+      "street-photography",
+      "compact-mirrorless"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_064",
+    "name": "Nikon Z8 Full-Frame Mirrorless",
+    "slug": "nikon-z8",
+    "description": "All the flagship Z9 capabilities packed into a compact body: 45.7MP stacked sensor, blackout-free EVF, and pro video codecs.",
+    "brandId": "brand_013",
+    "categoryId": "category_007",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Nikon Z8 Full-Frame Mirrorless primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Nikon Z8 Full-Frame Mirrorless detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_117",
+        "sku": "NIKON-Z8-BODY",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 329990,
+        "compareAtPrice": 349990
+      }
+    ],
+    "specifications": {
+      "sensor": "45.7MP Stacked CMOS Sensor",
+      "shutter": "Fully Electronic (no mechanical shutter)",
+      "video": "8.3K 60p N-RAW / 4K 120p ProRes",
+      "weatherSealing": "Pro Grade Magnesium Alloy"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 430
+    },
+    "tags": [
+      "nikon",
+      "z8",
+      "stacked-sensor",
+      "sports-photography",
+      "wildlife"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_065",
+    "name": "DJI Mini 4 Pro Drone",
+    "slug": "dji-mini-4-pro",
+    "description": "Sub-249g ultra-light drone with omnidirectional active obstacle sensing, 4K 60fps HDR true vertical shooting, and 20km transmission.",
+    "brandId": "brand_014",
+    "categoryId": "category_007",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=1000&q=80",
+        "alt": "DJI Mini 4 Pro Drone primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "DJI Mini 4 Pro Drone detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_118",
+        "sku": "DJI-M4P-RCN2",
+        "attributes": {
+          "color": "Standard White with RC-N2"
+        },
+        "price": 74990,
+        "compareAtPrice": 79990
+      },
+      {
+        "_id": "variant_119",
+        "sku": "DJI-M4P-FMC",
+        "attributes": {
+          "color": "Fly More Combo with RC 2 Screen"
+        },
+        "price": 99990,
+        "compareAtPrice": 104990
+      }
+    ],
+    "specifications": {
+      "weight": "249g (No registration needed in many regions)",
+      "flightTime": "34 Minutes per battery",
+      "camera": "4K 60fps HDR, 4K 100fps Slow Motion",
+      "safety": "Omnidirectional Obstacle Avoidance"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 1890
+    },
+    "tags": [
+      "dji",
+      "drone",
+      "mini-4-pro",
+      "aerial-photo",
+      "vertical-video"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_066",
+    "name": "DJI Air 3S Fly More Combo",
+    "slug": "dji-air-3s-fly-more-combo",
+    "description": "Dual primary camera drone with 1-inch CMOS wide camera and 70mm telephoto camera, Nightscape omnidirectional LiDAR sensing.",
+    "brandId": "brand_014",
+    "categoryId": "category_007",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39?auto=format&fit=crop&w=1000&q=80",
+        "alt": "DJI Air 3S Fly More Combo primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "DJI Air 3S Fly More Combo detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_120",
+        "sku": "DJI-AIR3S-RC2",
+        "attributes": {
+          "color": "Gray (RC 2 Screen)"
+        },
+        "price": 139990,
+        "compareAtPrice": 149990
+      }
+    ],
+    "specifications": {
+      "cameras": "1 inch CMOS 50MP + 1/1.3 inch Medium Tele 48MP",
+      "flightTime": "45 Minutes",
+      "transmission": "DJI O4 20km 10-bit Video",
+      "storage": "42GB Internal Storage"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 620
+    },
+    "tags": [
+      "dji",
+      "drone",
+      "dual-camera",
+      "telephoto-drone",
+      "aerial-cinematography"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_067",
+    "name": "DJI Osmo Pocket 3 Creator Combo",
+    "slug": "dji-osmo-pocket-3-creator-combo",
+    "description": "Pocket-sized 3-axis gimbal camera with rotating 2-inch OLED touchscreen, 1-inch CMOS 4K 120fps recording, and wireless mic.",
+    "brandId": "brand_014",
+    "categoryId": "category_007",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1000&q=80",
+        "alt": "DJI Osmo Pocket 3 Creator Combo primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1000&q=80",
+        "alt": "DJI Osmo Pocket 3 Creator Combo detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_121",
+        "sku": "DJI-OP3-CC",
+        "attributes": {
+          "color": "Classic Black"
+        },
+        "price": 54990,
+        "compareAtPrice": 59990
+      }
+    ],
+    "specifications": {
+      "sensor": "1 inch CMOS",
+      "screen": "2 inch Rotatable OLED",
+      "video": "4K 120fps / 10-bit D-Log M",
+      "stabilization": "3-Axis Mechanical Gimbal"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 2850
+    },
+    "tags": [
+      "dji",
+      "vlogging-camera",
+      "osmo-pocket",
+      "gimbal",
+      "creator-kit"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_068",
+    "name": "GoPro HERO 13 Black",
+    "slug": "gopro-hero-13-black",
+    "description": "Rugged 5.3K 60fps waterproof action camera with HB-series magnetic lens detection, HyperSmooth 6.0, and redesigned Enduro battery.",
+    "brandId": "brand_014",
+    "categoryId": "category_007",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1527977966376-1c8408f9f108?auto=format&fit=crop&w=1000&q=80",
+        "alt": "GoPro HERO 13 Black primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "GoPro HERO 13 Black detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_122",
+        "sku": "GP13-BLK",
+        "attributes": {
+          "color": "Matte Black"
+        },
+        "price": 44990,
+        "compareAtPrice": 47990
+      }
+    ],
+    "specifications": {
+      "video": "5.3K 60fps, 4K 120fps, 2.7K 240fps",
+      "stabilization": "HyperSmooth 6.0 with 360 Horizon Lock",
+      "waterproof": "10m (33ft) without housing",
+      "battery": "1900mAh Enduro Battery"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1620
+    },
+    "tags": [
+      "gopro",
+      "action-camera",
+      "waterproof",
+      "extreme-sports",
+      "hypersmooth"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_069",
+    "name": "Insta360 X4 8K 360 Camera",
+    "slug": "insta360-x4",
+    "description": "Capture the entire world in jaw-dropping 8K 30fps 360-degree video with invisible selfie stick effect, FlowState stabilization, and AI editing.",
+    "brandId": "brand_014",
+    "categoryId": "category_007",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1512790182412-b19e6d62bc39?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Insta360 X4 8K 360 Camera primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Insta360 X4 8K 360 Camera detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_123",
+        "sku": "INSTA-X4-STD",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 48999,
+        "compareAtPrice": 52999
+      }
+    ],
+    "specifications": {
+      "video": "8K 30fps / 5.7K 60fps 360 Video",
+      "photos": "72MP 360 Photos",
+      "screen": "2.5 inch Corning Gorilla Glass Touchscreen",
+      "waterproof": "10m (33ft)"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1350
+    },
+    "tags": [
+      "insta360",
+      "360-camera",
+      "8k",
+      "invisible-selfie-stick",
+      "travel"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_070",
+    "name": "Sony ZV-E1 Vlogging Camera",
+    "slug": "sony-zv-e1",
+    "description": "The world's smallest and lightest full-frame vlog camera featuring AI dynamic framing, multiple microphone capsules, and 4K 120p.",
+    "brandId": "brand_003",
+    "categoryId": "category_007",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony ZV-E1 Vlogging Camera primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Sony ZV-E1 Vlogging Camera detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_124",
+        "sku": "ZVE1-BLK",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 189990,
+        "compareAtPrice": 199990
+      },
+      {
+        "_id": "variant_125",
+        "sku": "ZVE1-WHT",
+        "attributes": {
+          "color": "White"
+        },
+        "price": 189990,
+        "compareAtPrice": 199990
+      }
+    ],
+    "specifications": {
+      "sensor": "12.1MP Full-Frame Exmor R",
+      "video": "4K 120p 10-bit 4:2:2",
+      "audio": "Intelligent 3-Capsule Internal Mic",
+      "features": "Cinematic Vlog Setting, Auto-Framing"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 680
+    },
+    "tags": [
+      "sony",
+      "zv-e1",
+      "vlogging",
+      "full-frame",
+      "creator-camera"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_071",
+    "name": "Dell UltraSharp 32 6K Monitor",
+    "slug": "dell-ultrasharp-32-6k-monitor",
+    "description": "Groundbreaking 6144 x 3456 IPS Black monitor with built-in 4K HDR webcam, Thunderbolt 4 140W power delivery, and 99% DCI-P3.",
+    "brandId": "brand_004",
+    "categoryId": "category_008",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Dell UltraSharp 32 6K Monitor primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Dell UltraSharp 32 6K Monitor detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_126",
+        "sku": "U3224KB-SLV",
+        "attributes": {
+          "color": "Platinum Silver"
+        },
+        "price": 189999,
+        "compareAtPrice": 199999
+      }
+    ],
+    "specifications": {
+      "resolution": "6K 6144 x 3456 IPS Black",
+      "contrast": "2000:1 Contrast Ratio",
+      "ports": "Thunderbolt 4, HDMI 2.1, mini-DP 2.1, 10Gbps USB-C",
+      "webcam": "Built-in 4K Dual Gain HDR Webcam"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 320
+    },
+    "tags": [
+      "dell",
+      "ultrasharp",
+      "6k-monitor",
+      "creative-display",
+      "thunderbolt-4"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_072",
+    "name": "LG UltraGear 32 OLED 4K Gaming Monitor",
+    "slug": "lg-ultragear-32-oled-4k-gaming-monitor",
+    "description": "Dual-Hz technology switching between 4K 240Hz for cinematic fidelity and FHD 480Hz for lightning-fast competitive esports.",
+    "brandId": "brand_015",
+    "categoryId": "category_008",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "LG UltraGear 32 OLED 4K Gaming Monitor primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "LG UltraGear 32 OLED 4K Gaming Monitor detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_127",
+        "sku": "LG-32GS95UE",
+        "attributes": {
+          "color": "Matte Black"
+        },
+        "price": 119999,
+        "compareAtPrice": 129999
+      }
+    ],
+    "specifications": {
+      "panel": "31.5 inch WOLED Anti-Glare",
+      "refreshRate": "Dual Mode: 4K 240Hz / FHD 480Hz",
+      "responseTime": "0.03ms GtG",
+      "audio": "Pixel Sound vibrating display"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 680
+    },
+    "tags": [
+      "lg",
+      "ultragear",
+      "oled-monitor",
+      "480hz",
+      "dual-mode"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_073",
+    "name": "Samsung Odyssey OLED G9 49-inch",
+    "slug": "samsung-odyssey-oled-g9-49-inch",
+    "description": "Curved 1800R 32:9 super ultra-wide QD-OLED display with Neo Quantum Processor Pro, 240Hz refresh, and smart gaming hub.",
+    "brandId": "brand_002",
+    "categoryId": "category_008",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Odyssey OLED G9 49-inch primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Samsung Odyssey OLED G9 49-inch detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_128",
+        "sku": "SAM-G95SC",
+        "attributes": {
+          "color": "Silver Metal"
+        },
+        "price": 149999,
+        "compareAtPrice": 159999
+      }
+    ],
+    "specifications": {
+      "resolution": "Dual QHD 5120 x 1440 (32:9)",
+      "panel": "QD-OLED 240Hz 0.03ms",
+      "curvature": "1800R",
+      "ports": "DisplayPort 1.4, HDMI 2.1, Micro HDMI"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 850
+    },
+    "tags": [
+      "samsung",
+      "odyssey",
+      "ultrawide",
+      "qd-oled",
+      "sim-racing"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_074",
+    "name": "ASUS ROG Swift OLED 32-inch",
+    "slug": "asus-rog-swift-oled-32-inch",
+    "description": "4K 240Hz QD-OLED gaming monitor with third-generation panel, custom heatsink, graphene film, and uniform brightness mode.",
+    "brandId": "brand_005",
+    "categoryId": "category_008",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=1000&q=80",
+        "alt": "ASUS ROG Swift OLED 32-inch primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=1000&q=80",
+        "alt": "ASUS ROG Swift OLED 32-inch detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_129",
+        "sku": "PG32UCDM-BLK",
+        "attributes": {
+          "color": "ROG Black"
+        },
+        "price": 124999,
+        "compareAtPrice": 134999
+      }
+    ],
+    "specifications": {
+      "panel": "31.5 inch 4K QD-OLED 240Hz",
+      "responseTime": "0.03ms GtG",
+      "ports": "DP 1.4 DSC, HDMI 2.1, USB-C 90W PD",
+      "cooling": "Custom Heatsink + Graphene Film"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 710
+    },
+    "tags": [
+      "asus",
+      "rog-swift",
+      "qd-oled",
+      "4k240hz",
+      "pc-gaming"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_075",
+    "name": "Apple Studio Display 27-inch 5K",
+    "slug": "apple-studio-display-27-inch-5k",
+    "description": "Expansive 27-inch 5K Retina display with 12MP Center Stage camera, studio-quality three-mic array, and six-speaker spatial sound.",
+    "brandId": "brand_001",
+    "categoryId": "category_008",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple Studio Display 27-inch 5K primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple Studio Display 27-inch 5K detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_130",
+        "sku": "ASD-STD-SLV",
+        "attributes": {
+          "color": "Silver (Standard Glass)"
+        },
+        "price": 159900,
+        "compareAtPrice": 169900
+      },
+      {
+        "_id": "variant_131",
+        "sku": "ASD-NANO-SLV",
+        "attributes": {
+          "color": "Silver (Nano-Texture Glass)"
+        },
+        "price": 189900,
+        "compareAtPrice": 199900
+      }
+    ],
+    "specifications": {
+      "resolution": "5K 5120 x 2880 (218 ppi)",
+      "brightness": "600 nits, P3 Wide Color",
+      "audio": "6-Speaker Sound System with Spatial Audio",
+      "camera": "12MP Ultra Wide with Center Stage"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1240
+    },
+    "tags": [
+      "apple",
+      "studio-display",
+      "5k-retina",
+      "mac-accessory",
+      "creator-monitor"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_076",
+    "name": "BenQ PD3225U Designer Monitor",
+    "slug": "benq-pd3225u-designer-monitor",
+    "description": "Color-accurate 4K IPS Black monitor customized for Mac users with Thunderbolt 3 85W, Calman verified, and Hotkey Puck G2.",
+    "brandId": "brand_004",
+    "categoryId": "category_008",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "BenQ PD3225U Designer Monitor primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "BenQ PD3225U Designer Monitor detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_132",
+        "sku": "BENQ-PD3225U",
+        "attributes": {
+          "color": "Dark Gray"
+        },
+        "price": 99990,
+        "compareAtPrice": 109990
+      }
+    ],
+    "specifications": {
+      "resolution": "4K UHD 3840 x 2160 IPS Black",
+      "colorAccuracy": "98% DCI-P3, Delta E <= 2.0",
+      "ports": "Thunderbolt 3 Daisy Chain, HDMI 2.0, DP 1.4",
+      "accessories": "Hotkey Puck G2 Controller"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 390
+    },
+    "tags": [
+      "benq",
+      "color-grading",
+      "ips-black",
+      "mac-monitor",
+      "designer"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_077",
+    "name": "MSI MPG 321URX QD-OLED",
+    "slug": "msi-mpg-321urx-qd-oled",
+    "description": "Next-gen 4K 240Hz gaming display featuring MSI OLED Care 2.0, graphene cooling, KVM switch, and Type-C 90W charging.",
+    "brandId": "brand_005",
+    "categoryId": "category_008",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1612287270397-6a1612e4310d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "MSI MPG 321URX QD-OLED primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "MSI MPG 321URX QD-OLED detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_133",
+        "sku": "MSI-321URX",
+        "attributes": {
+          "color": "Metallic Black"
+        },
+        "price": 109999,
+        "compareAtPrice": 119999
+      }
+    ],
+    "specifications": {
+      "panel": "31.5 inch 4K QD-OLED 240Hz",
+      "contrast": "1,500,000:1 Contrast Ratio",
+      "warranty": "3-Year Burn-In Warranty",
+      "ports": "HDMI 2.1, DP 1.4a, Type-C 90W"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 540
+    },
+    "tags": [
+      "msi",
+      "qd-oled",
+      "4k240hz",
+      "kvm-switch",
+      "gaming"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_078",
+    "name": "Alienware AW3423DWF Curved QD-OLED",
+    "slug": "alienware-aw3423dwf-curved-qd-oled",
+    "description": "Legendary 34-inch 1800R curved gaming monitor with Quantum Dot OLED, infinite contrast ratio, AMD FreeSync Premium Pro, and AlienFX.",
+    "brandId": "brand_004",
+    "categoryId": "category_008",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Alienware AW3423DWF Curved QD-OLED primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Alienware AW3423DWF Curved QD-OLED detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_134",
+        "sku": "AW3423DWF",
+        "attributes": {
+          "color": "Dark Side of the Moon"
+        },
+        "price": 89999,
+        "compareAtPrice": 99999
+      }
+    ],
+    "specifications": {
+      "resolution": "WQHD 3440 x 1440 21:9 Ultrawide",
+      "refreshRate": "165Hz Native",
+      "panel": "QD-OLED 0.1ms",
+      "curvature": "1800R Curved"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 1850
+    },
+    "tags": [
+      "alienware",
+      "ultrawide",
+      "qd-oled",
+      "gaming-monitor",
+      "curved-display"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_079",
+    "name": "LG DualUp 28-inch Ergonomic Monitor",
+    "slug": "lg-dualup-28-inch-ergonomic-monitor",
+    "description": "Innovative 16:18 aspect ratio monitor equivalent to two 21.5-inch displays stacked vertically with Ergo arm stand and USB-C.",
+    "brandId": "brand_015",
+    "categoryId": "category_008",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=1000&q=80",
+        "alt": "LG DualUp 28-inch Ergonomic Monitor primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1585792180666-f7347c490ee2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "LG DualUp 28-inch Ergonomic Monitor detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_135",
+        "sku": "LG-28MQ780",
+        "attributes": {
+          "color": "Matte Black"
+        },
+        "price": 54999,
+        "compareAtPrice": 59999
+      }
+    ],
+    "specifications": {
+      "resolution": "SDQHD 2560 x 2880 (16:18 aspect ratio)",
+      "stand": "Ergo Clamp Stand with 360 Swivel",
+      "ports": "USB-C 90W, 2x HDMI, DisplayPort",
+      "features": "Picture-by-Picture Dual Source"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 480
+    },
+    "tags": [
+      "lg",
+      "dualup",
+      "vertical-monitor",
+      "coding-monitor",
+      "ergonomic"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_080",
+    "name": "Gigabyte M27U 4K 160Hz Gaming Monitor",
+    "slug": "gigabyte-m27u-4k-160hz-gaming-monitor",
+    "description": "High-value 27-inch 4K Super Speed IPS panel delivering 160Hz refresh, 1ms response, KVM switch, and 95% DCI-P3 color gamut.",
+    "brandId": "brand_005",
+    "categoryId": "category_008",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Gigabyte M27U 4K 160Hz Gaming Monitor primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Gigabyte M27U 4K 160Hz Gaming Monitor detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_136",
+        "sku": "GB-M27U",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 44999,
+        "compareAtPrice": 49999
+      }
+    ],
+    "specifications": {
+      "resolution": "4K UHD 3840 x 2160 Super Speed IPS",
+      "refreshRate": "160Hz",
+      "features": "Built-in KVM Switch, OSD Sidekick",
+      "ports": "HDMI 2.1, DP 1.4, USB-C"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 620
+    },
+    "tags": [
+      "gigabyte",
+      "4k-160hz",
+      "budget-4k",
+      "ps5-monitor",
+      "kvm"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_081",
+    "name": "Logitech MX Master 3S Wireless Mouse",
+    "slug": "logitech-mx-master-3s-wireless-mouse",
+    "description": "The gold standard productivity mouse with Quiet Clicks, 8K DPI any-surface tracking, and MagSpeed electromagnetic scrolling.",
+    "brandId": "brand_009",
+    "categoryId": "category_009",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Logitech MX Master 3S Wireless Mouse primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Logitech MX Master 3S Wireless Mouse detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_137",
+        "sku": "MXM3S-GRP",
+        "attributes": {
+          "color": "Graphite"
+        },
+        "price": 9495,
+        "compareAtPrice": 10995
+      },
+      {
+        "_id": "variant_138",
+        "sku": "MXM3S-GRY",
+        "attributes": {
+          "color": "Pale Gray"
+        },
+        "price": 9495,
+        "compareAtPrice": 10995
+      }
+    ],
+    "specifications": {
+      "sensor": "Darkfield 8000 DPI Sensor",
+      "scrollWheel": "MagSpeed Electromagnetic 1000 lines/sec",
+      "battery": "Up to 70 Days per charge",
+      "connectivity": "Bluetooth & Logi Bolt"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 4800
+    },
+    "tags": [
+      "logitech",
+      "mx-master",
+      "ergonomic-mouse",
+      "productivity",
+      "office"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_082",
+    "name": "Logitech MX Mechanical Wireless Keyboard",
+    "slug": "logitech-mx-mechanical-keyboard",
+    "description": "Low-profile mechanical performance with tactile quiet switches, smart dual-color illumination, and multi-device Easy-Switch.",
+    "brandId": "brand_009",
+    "categoryId": "category_009",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Logitech MX Mechanical Wireless Keyboard primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Logitech MX Mechanical Wireless Keyboard detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_139",
+        "sku": "MXMECH-BRN",
+        "attributes": {
+          "color": "Tactile Quiet (Brown)"
+        },
+        "price": 15495,
+        "compareAtPrice": 17495
+      },
+      {
+        "_id": "variant_140",
+        "sku": "MXMECH-RED",
+        "attributes": {
+          "color": "Linear (Red)"
+        },
+        "price": 15495,
+        "compareAtPrice": 17495
+      }
+    ],
+    "specifications": {
+      "layout": "Full Size Low Profile Mechanical",
+      "backlight": "Smart Illumination Proximity Sensing",
+      "connectivity": "Bluetooth Low Energy & Logi Bolt",
+      "battery": "15 days (10 months backlight off)"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 2100
+    },
+    "tags": [
+      "logitech",
+      "mechanical-keyboard",
+      "low-profile",
+      "multi-device"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_083",
+    "name": "Keychron Q1 Pro Custom Mechanical Keyboard",
+    "slug": "keychron-q1-pro",
+    "description": "Enthusiast-grade CNC aluminum wireless keyboard with double-gasket mount design, hot-swappable sockets, and QMK/VIA key remapping.",
+    "brandId": "brand_009",
+    "categoryId": "category_009",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Keychron Q1 Pro Custom Mechanical Keyboard primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Keychron Q1 Pro Custom Mechanical Keyboard detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_141",
+        "sku": "KQ1P-BLK-RED",
+        "attributes": {
+          "color": "Carbon Black (K Pro Red)"
+        },
+        "price": 17999,
+        "compareAtPrice": 19999
+      },
+      {
+        "_id": "variant_142",
+        "sku": "KQ1P-SLV-BAN",
+        "attributes": {
+          "color": "Silver Grey (K Pro Banana)"
+        },
+        "price": 17999,
+        "compareAtPrice": 19999
+      }
+    ],
+    "specifications": {
+      "layout": "75% Exploded Layout with Rotary Knob",
+      "body": "Full CNC Machined Aluminum",
+      "connectivity": "Bluetooth 5.1 & Type-C Wired (1000Hz)",
+      "programmability": "Full QMK/VIA Custom Firmware"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 1150
+    },
+    "tags": [
+      "keychron",
+      "custom-keyboard",
+      "hot-swap",
+      "mechanical",
+      "aluminum"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_084",
+    "name": "Razer DeathAdder V3 Pro Wireless Mouse",
+    "slug": "razer-deathadder-v3-pro",
+    "description": "Ultra-lightweight 63g ergonomic esports mouse equipped with Focus Pro 30K optical sensor, Gen-3 optical switches, and 8000Hz polling.",
+    "brandId": "brand_017",
+    "categoryId": "category_009",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Razer DeathAdder V3 Pro Wireless Mouse primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Razer DeathAdder V3 Pro Wireless Mouse detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_143",
+        "sku": "DAV3P-BLK",
+        "attributes": {
+          "color": "Matte Black"
+        },
+        "price": 13999,
+        "compareAtPrice": 15999
+      },
+      {
+        "_id": "variant_144",
+        "sku": "DAV3P-WHT",
+        "attributes": {
+          "color": "White Edition"
+        },
+        "price": 13999,
+        "compareAtPrice": 15999
+      }
+    ],
+    "specifications": {
+      "weight": "63 grams",
+      "sensor": "Focus Pro 30,000 DPI Optical",
+      "switches": "Optical Mouse Switches Gen-3 (90M clicks)",
+      "battery": "Up to 90 Hours"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1950
+    },
+    "tags": [
+      "razer",
+      "deathadder",
+      "gaming-mouse",
+      "esports",
+      "lightweight"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_085",
+    "name": "SteelSeries Apex Pro TKL Wireless",
+    "slug": "steelseries-apex-pro-tkl-wireless",
+    "description": "World's fastest keyboard powered by OmniPoint 2.0 adjustable hyper-magnetic switches (0.1mm - 4.0mm actuation), OLED smart display.",
+    "brandId": "brand_017",
+    "categoryId": "category_009",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=1000&q=80",
+        "alt": "SteelSeries Apex Pro TKL Wireless primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1000&q=80",
+        "alt": "SteelSeries Apex Pro TKL Wireless detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_145",
+        "sku": "APEX-TKL-WL",
+        "attributes": {
+          "color": "Black"
+        },
+        "price": 23999,
+        "compareAtPrice": 26999
+      }
+    ],
+    "specifications": {
+      "switches": "OmniPoint 2.0 Adjustable Magnetic Hall Effect",
+      "actuation": "0.1mm to 4.0mm Rapid Trigger",
+      "screen": "OLED Smart Display",
+      "connectivity": "Quantum 2.0 Dual Wireless (2.4GHz + BT 5.0)"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1320
+    },
+    "tags": [
+      "steelseries",
+      "rapid-trigger",
+      "hall-effect",
+      "gaming-keyboard",
+      "tkl"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_086",
+    "name": "Elgato Stream Deck MK.2",
+    "slug": "elgato-stream-deck-mk2",
+    "description": "15 customizable LCD keys to trigger studio actions, switch scenes, launch media, control audio, and automate digital workflows.",
+    "brandId": "brand_009",
+    "categoryId": "category_009",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1612287270397-6a1612e4310d?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Elgato Stream Deck MK.2 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Elgato Stream Deck MK.2 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_146",
+        "sku": "SD-MK2-BLK",
+        "attributes": {
+          "color": "Matte Black"
+        },
+        "price": 13990,
+        "compareAtPrice": 15990
+      },
+      {
+        "_id": "variant_147",
+        "sku": "SD-MK2-WHT",
+        "attributes": {
+          "color": "White Edition"
+        },
+        "price": 13990,
+        "compareAtPrice": 15990
+      }
+    ],
+    "specifications": {
+      "keys": "15 Customizable Color LCD Keys",
+      "stand": "45-Degree Fixed Desktop Stand",
+      "interface": "USB 2.0 (Detachable Type-C Cable)",
+      "integrations": "OBS, Twitch, YouTube, Spotify, Philips Hue"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 3200
+    },
+    "tags": [
+      "elgato",
+      "stream-deck",
+      "streaming",
+      "content-creator",
+      "productivity-hub"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_087",
+    "name": "Shure SM7B Cardioid Dynamic Microphone",
+    "slug": "shure-sm7b-cardioid-dynamic-microphone",
+    "description": "Legendary broadcast studio microphone delivering warm, smooth vocal tone with electromagnetic hum shielding and internal shock isolation.",
+    "brandId": "brand_018",
+    "categoryId": "category_009",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1580910051074-3eb694886505?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Shure SM7B Cardioid Dynamic Microphone primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1565849904461-04a58ad377e0?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Shure SM7B Cardioid Dynamic Microphone detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_148",
+        "sku": "SHURE-SM7B",
+        "attributes": {
+          "color": "Charcoal Black"
+        },
+        "price": 37990,
+        "compareAtPrice": 42990
+      }
+    ],
+    "specifications": {
+      "type": "Dynamic (moving coil)",
+      "polarPattern": "Cardioid",
+      "frequencyResponse": "50 to 20,000 Hz",
+      "connector": "Three-pin Professional Audio (XLR)"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 4100
+    },
+    "tags": [
+      "shure",
+      "sm7b",
+      "podcast-mic",
+      "studio-microphone",
+      "broadcasting"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_088",
+    "name": "Rode Wireless PRO Microphone System",
+    "slug": "rode-wireless-pro-system",
+    "description": "Compact dual-channel wireless mic kit featuring 32-bit float on-board recording, internal timecode generator, and 260m range.",
+    "brandId": "brand_018",
+    "categoryId": "category_009",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1616348436168-de43ad0db179?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Rode Wireless PRO Microphone System primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Rode Wireless PRO Microphone System detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_149",
+        "sku": "RODE-WPRO",
+        "attributes": {
+          "color": "Black with Smart Charge Case"
+        },
+        "price": 36990,
+        "compareAtPrice": 39990
+      }
+    ],
+    "specifications": {
+      "recording": "32-bit Float Onboard Recording (Never clips)",
+      "range": "260m (850ft) Line of Sight Transmission",
+      "kit": "2 Transmitters + 1 Receiver + Smart Charging Case",
+      "battery": "7 Hours per unit"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1250
+    },
+    "tags": [
+      "rode",
+      "wireless-mic",
+      "lavalier",
+      "filmmaking",
+      "32-bit-float"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_089",
+    "name": "CalDigit TS4 Thunderbolt 4 Dock",
+    "slug": "caldigit-ts4-thunderbolt-4-dock",
+    "description": "The ultimate workstation docking hub featuring 18 versatile connectivity ports, 98W host laptop charging, and dual 6K display support.",
+    "brandId": "brand_004",
+    "categoryId": "category_009",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?auto=format&fit=crop&w=1000&q=80",
+        "alt": "CalDigit TS4 Thunderbolt 4 Dock primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=1000&q=80",
+        "alt": "CalDigit TS4 Thunderbolt 4 Dock detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_150",
+        "sku": "CD-TS4-US",
+        "attributes": {
+          "color": "Space Gray Aluminum"
+        },
+        "price": 39999,
+        "compareAtPrice": 44999
+      }
+    ],
+    "specifications": {
+      "ports": "18 Total Ports (3x TB4, 5x USB-A, 3x USB-C, 2.5GbE LAN, DisplayPort 1.4, SD 4.0)",
+      "charging": "98W Power Delivery to Laptop",
+      "displaySupport": "Up to Single 8K or Dual 6K 60Hz"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 890
+    },
+    "tags": [
+      "caldigit",
+      "thunderbolt-4",
+      "laptop-dock",
+      "macbook-dock",
+      "workstation"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_090",
+    "name": "Anker Prime 27650mAh Power Bank 250W",
+    "slug": "anker-prime-27650mah-power-bank-250w",
+    "description": "Airline-approved ultra-high capacity power bank outputting 250W total multi-device fast charge with smart digital LCD display.",
+    "brandId": "brand_009",
+    "categoryId": "category_009",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Anker Prime 27650mAh Power Bank 250W primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Anker Prime 27650mAh Power Bank 250W detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_151",
+        "sku": "ANK-PRM-27K",
+        "attributes": {
+          "color": "Space Gray"
+        },
+        "price": 14999,
+        "compareAtPrice": 17999
+      }
+    ],
+    "specifications": {
+      "capacity": "27,650mAh (99.54Wh airline safe)",
+      "output": "250W Max Total (Dual USB-C 140W each)",
+      "display": "Smart Color Digital Display",
+      "appSupport": "Anker App Bluetooth Control"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 2300
+    },
+    "tags": [
+      "anker",
+      "power-bank",
+      "250w-fast-charging",
+      "laptop-battery",
+      "travel-tech"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_091",
+    "name": "Dyson V15s Detect Submarine Vacuum",
+    "slug": "dyson-v15s-detect-submarine",
+    "description": "All-in-one wet and dry cordless vacuum cleaner with Fluffy Optic laser illumination, piezo particle sensor, and motorized wet roller.",
+    "brandId": "brand_015",
+    "categoryId": "category_010",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Dyson V15s Detect Submarine Vacuum primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Dyson V15s Detect Submarine Vacuum detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_152",
+        "sku": "DYS-V15S-SUB",
+        "attributes": {
+          "color": "Yellow & Nickel"
+        },
+        "price": 62900,
+        "compareAtPrice": 69900
+      }
+    ],
+    "specifications": {
+      "suctionPower": "240 AW",
+      "filtration": "Whole-machine HEPA Filtration (99.99% down to 0.1 microns)",
+      "runTime": "Up to 60 Minutes",
+      "heads": "Submarine Wet Roller + Digital Motorbar + Fluffy Optic"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1450
+    },
+    "tags": [
+      "dyson",
+      "cordless-vacuum",
+      "wet-and-dry",
+      "smart-home",
+      "cleaner"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_092",
+    "name": "Philips Hue Smart Gradient Lightstrip",
+    "slug": "philips-hue-smart-gradient-lightstrip",
+    "description": "Seamless blend of multiple simultaneous colors along a single strip with smart Zigbee, Bluetooth, and voice assistant sync.",
+    "brandId": "brand_015",
+    "categoryId": "category_010",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Philips Hue Smart Gradient Lightstrip primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Philips Hue Smart Gradient Lightstrip detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_153",
+        "sku": "HUE-GRAD-2M",
+        "attributes": {
+          "color": "White Ambiance & Color (2 Meter)"
+        },
+        "price": 12999,
+        "compareAtPrice": 14999
+      },
+      {
+        "_id": "variant_154",
+        "sku": "HUE-GRAD-1M",
+        "attributes": {
+          "color": "Extension (1 Meter)"
+        },
+        "price": 4999,
+        "compareAtPrice": 5999
+      }
+    ],
+    "specifications": {
+      "length": "200cm (extendable up to 10m)",
+      "lumenOutput": "1800 lumens",
+      "connectivity": "Zigbee & Bluetooth",
+      "colorTemperature": "2000K - 6500K + 16 Million Colors"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1820
+    },
+    "tags": [
+      "philips-hue",
+      "smart-lighting",
+      "rgb-gradient",
+      "homekit",
+      "alexa"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_093",
+    "name": "Roborock S8 MaxV Ultra Robot Vacuum",
+    "slug": "roborock-s8-maxv-ultra",
+    "description": "Industry-leading 10,000Pa suction robot vacuum and mop with automated hot water mop washing, auto dirt emptying, and FlexiArm corner cleaning.",
+    "brandId": "brand_015",
+    "categoryId": "category_010",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Roborock S8 MaxV Ultra Robot Vacuum primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Roborock S8 MaxV Ultra Robot Vacuum detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_155",
+        "sku": "RBRK-S8MV-WHT",
+        "attributes": {
+          "color": "Titanium White"
+        },
+        "price": 119999,
+        "compareAtPrice": 129999
+      },
+      {
+        "_id": "variant_156",
+        "sku": "RBRK-S8MV-BLK",
+        "attributes": {
+          "color": "Obsidian Black"
+        },
+        "price": 119999,
+        "compareAtPrice": 129999
+      }
+    ],
+    "specifications": {
+      "suctionPower": "10,000Pa Extreme Suction",
+      "dock": "8-in-1 RockDock Ultra (Hot Water Wash & Dry)",
+      "navigation": "Reactive AI 2.0 Obstacle Recognition + PreciSense LiDAR",
+      "mopping": "VibraRise 3.0 Mopping System"
+    },
+    "rating": {
+      "average": 4.9,
+      "count": 720
+    },
+    "tags": [
+      "roborock",
+      "robot-vacuum",
+      "smart-cleaning",
+      "hot-water-mop",
+      "ai-navigation"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_094",
+    "name": "Ecobee Smart Thermostat Premium",
+    "slug": "ecobee-smart-thermostat-premium",
+    "description": "Brushed zinc glass thermostat with built-in air quality monitor, smart remote room sensor, Siri and Alexa voice control, and energy savings.",
+    "brandId": "brand_015",
+    "categoryId": "category_010",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Ecobee Smart Thermostat Premium primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Ecobee Smart Thermostat Premium detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_157",
+        "sku": "ECOB-PREM",
+        "attributes": {
+          "color": "Black & Silver"
+        },
+        "price": 21999,
+        "compareAtPrice": 24999
+      }
+    ],
+    "specifications": {
+      "display": "Full Color Touchscreen",
+      "sensors": "Indoor Air Quality, VOC, Temperature, Occupancy",
+      "voiceControl": "Built-in Alexa & Siri integration",
+      "compatibility": "Apple HomeKit, Google Home, Alexa"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1650
+    },
+    "tags": [
+      "ecobee",
+      "smart-thermostat",
+      "energy-saver",
+      "home-automation",
+      "air-quality"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_095",
+    "name": "Apple HomePod Gen 2",
+    "slug": "apple-homepod-gen-2",
+    "description": "Audiophile-grade smart speaker with custom high-excursion woofer, beamforming array of five tweeters, room sensing, and Matter smart hub.",
+    "brandId": "brand_001",
+    "categoryId": "category_010",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple HomePod Gen 2 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Apple HomePod Gen 2 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_158",
+        "sku": "HOMEPOD2-MID",
+        "attributes": {
+          "color": "Midnight"
+        },
+        "price": 32900,
+        "compareAtPrice": 34900
+      },
+      {
+        "_id": "variant_159",
+        "sku": "HOMEPOD2-WHT",
+        "attributes": {
+          "color": "White"
+        },
+        "price": 32900,
+        "compareAtPrice": 34900
+      }
+    ],
+    "specifications": {
+      "acousticDesign": "4 inch High-Excursion Woofer + 5 Beamforming Tweeters",
+      "audioTech": "Real-time Room Sensing & Spatial Audio",
+      "sensors": "Temperature & Humidity Sensor",
+      "smartHome": "Thread Border Router & Matter Hub"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 1890
+    },
+    "tags": [
+      "apple",
+      "homepod",
+      "smart-speaker",
+      "matter",
+      "spatial-audio"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_096",
+    "name": "Google Nest Hub Max 2",
+    "slug": "google-nest-hub-max-2",
+    "description": "10-inch smart home command center with stereo sound, built-in Nest Cam, Gemini voice AI, and facial recognition Face Match.",
+    "brandId": "brand_010",
+    "categoryId": "category_010",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Google Nest Hub Max 2 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Google Nest Hub Max 2 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_160",
+        "sku": "NHM2-CHK",
+        "attributes": {
+          "color": "Chalk"
+        },
+        "price": 22999,
+        "compareAtPrice": 25999
+      },
+      {
+        "_id": "variant_161",
+        "sku": "NHM2-CHR",
+        "attributes": {
+          "color": "Charcoal"
+        },
+        "price": 22999,
+        "compareAtPrice": 25999
+      }
+    ],
+    "specifications": {
+      "display": "10.0 inch HD Touchscreen (1280 x 800)",
+      "camera": "6.5MP Nest Cam with auto-framing",
+      "audio": "Stereo Speakers + 30W Subwoofer",
+      "connectivity": "Wi-Fi 6, Bluetooth 5.2, Thread, Matter"
+    },
+    "rating": {
+      "average": 4.6,
+      "count": 1420
+    },
+    "tags": [
+      "google",
+      "nest-hub",
+      "smart-display",
+      "gemini-assistant",
+      "smart-home-hub"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_097",
+    "name": "Ring Video Doorbell Pro 2",
+    "slug": "ring-video-doorbell-pro-2",
+    "description": "Head-to-Toe 1536p HD+ video doorbell with 3D Motion Detection powered by radar, Bird's Eye View, and two-way audio with Audio+.",
+    "brandId": "brand_016",
+    "categoryId": "category_010",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Ring Video Doorbell Pro 2 primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Ring Video Doorbell Pro 2 detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_162",
+        "sku": "RING-PRO2-NIK",
+        "attributes": {
+          "color": "Satin Nickel"
+        },
+        "price": 19999,
+        "compareAtPrice": 22999
+      }
+    ],
+    "specifications": {
+      "video": "1536p HD+ Head-to-Toe Video with HDR",
+      "motion": "3D Motion Detection with Radar",
+      "audio": "Two-Way Talk with Noise Cancellation Audio+",
+      "power": "Hardwired to existing doorbell wiring"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 2600
+    },
+    "tags": [
+      "ring",
+      "video-doorbell",
+      "home-security",
+      "alexa-compatible",
+      "radar"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_098",
+    "name": "Nanoleaf Lines Smart RGB Backlight",
+    "slug": "nanoleaf-lines-smarter-kit",
+    "description": "Modular backlit smart LED light bars that click together into customizable geometric wall art with dynamic music visualizer.",
+    "brandId": "brand_015",
+    "categoryId": "category_010",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Nanoleaf Lines Smart RGB Backlight primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Nanoleaf Lines Smart RGB Backlight detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_163",
+        "sku": "NL-LINES-9PK",
+        "attributes": {
+          "color": "White Lines (9 Pack)"
+        },
+        "price": 16999,
+        "compareAtPrice": 18999
+      }
+    ],
+    "specifications": {
+      "bars": "9 Modular Backlit Light Bars (60-Degree Connectors)",
+      "colors": "16M+ RGB Colors + Tunable White",
+      "features": "Rhythm Music Visualizer, Screen Mirroring",
+      "smartHome": "Apple Home, Google Home, Alexa, Razer Chroma"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 1120
+    },
+    "tags": [
+      "nanoleaf",
+      "ambient-lighting",
+      "gaming-setup",
+      "modular-art",
+      "smart-led"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_099",
+    "name": "Ninja Creami Deluxe Ice Cream Maker",
+    "slug": "ninja-creami-deluxe",
+    "description": "Transform everyday ingredients into creamy ice creams, gelatos, milkshakes, sorbets, and frozen yogurts with Dual-Drive Motors.",
+    "brandId": "brand_015",
+    "categoryId": "category_010",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Ninja Creami Deluxe Ice Cream Maker primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?auto=format&fit=crop&w=1000&q=80",
+        "alt": "Ninja Creami Deluxe Ice Cream Maker detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_164",
+        "sku": "NC501-SLV",
+        "attributes": {
+          "color": "Cloud Silver"
+        },
+        "price": 21999,
+        "compareAtPrice": 24999
+      }
+    ],
+    "specifications": {
+      "functions": "11 One-Touch Programs (Ice Cream, Gelato, Sorbet, Slushi, etc.)",
+      "capacity": "3x 24 oz. Deluxe Pints",
+      "motor": "Dual-Drive Motors with Creamerizer Paddle"
+    },
+    "rating": {
+      "average": 4.8,
+      "count": 3400
+    },
+    "tags": [
+      "ninja",
+      "creami",
+      "kitchen-tech",
+      "ice-cream-maker",
+      "smart-appliance"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  },
+  {
+    "_id": "product_100",
+    "name": "LG PuriCare 360 Smart Air Purifier",
+    "slug": "lg-puricare-360",
+    "description": "360-degree cylindrical air purifier with motorized Clean Booster delivering purified air up to 7.5 meters, eliminating PM1.0 particles.",
+    "brandId": "brand_015",
+    "categoryId": "category_010",
+    "images": [
+      {
+        "url": "https://images.unsplash.com/photo-1585338107529-13afc5f02586?auto=format&fit=crop&w=1000&q=80",
+        "alt": "LG PuriCare 360 Smart Air Purifier primary display",
+        "isPrimary": true
+      },
+      {
+        "url": "https://images.unsplash.com/photo-1543512214-318c7553f230?auto=format&fit=crop&w=1000&q=80",
+        "alt": "LG PuriCare 360 Smart Air Purifier detail view",
+        "isPrimary": false
+      }
+    ],
+    "variants": [
+      {
+        "_id": "variant_165",
+        "sku": "LG-AS60GHWG0",
+        "attributes": {
+          "color": "Romantic Rose / White"
+        },
+        "price": 39999,
+        "compareAtPrice": 44999
+      }
+    ],
+    "specifications": {
+      "coverage": "Up to 650 sq. ft.",
+      "filtration": "Multi-filtration Safe Plus (HEPA H13 + Deodorization)",
+      "sensor": "PM1.0 Smart Sensor & Gas Sensor",
+      "app": "LG ThinQ Wi-Fi Control"
+    },
+    "rating": {
+      "average": 4.7,
+      "count": 870
+    },
+    "tags": [
+      "lg",
+      "air-purifier",
+      "hepa-filter",
+      "clean-air",
+      "allergies"
+    ],
+    "status": "active",
+    "createdAt": "2026-09-13T10:00:00.000Z",
+    "updatedAt": "2026-09-13T10:00:00.000Z"
+  }
+]
