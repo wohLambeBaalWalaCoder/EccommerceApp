@@ -3,6 +3,7 @@ const cors = require('cors');
 const dotenv = require('dotenv');
 const connectDB = require('./config/db');
 const authRoutes = require('./routes/authRoutes');
+const productRoutes = require('./routes/productRoutes');
 
 // Load environment variables
 dotenv.config();
@@ -28,6 +29,7 @@ app.get('/api/health', (req, res) => {
 
 // Route Mounts
 app.use('/api/auth', authRoutes);
+app.use('/api/products', productRoutes);
 
 // 404 Route Not Found Handler
 app.use((req, res) => {
