@@ -4,6 +4,7 @@ const dotenv = require('dotenv');
 const connectDB = require('./config/db');
 const authRoutes = require('./routes/authRoutes');
 const productRoutes = require('./routes/productRoutes');
+const orderRoutes = require('./routes/orderRoutes');
 
 // Load environment variables
 dotenv.config();
@@ -30,6 +31,7 @@ app.get('/api/health', (req, res) => {
 // Route Mounts
 app.use('/api/auth', authRoutes);
 app.use('/api/products', productRoutes);
+app.use('/api/orders', orderRoutes);
 
 // 404 Route Not Found Handler
 app.use((req, res) => {
